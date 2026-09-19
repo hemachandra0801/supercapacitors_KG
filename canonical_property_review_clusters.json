@@ -1,0 +1,5786 @@
+{
+  "0": {
+    "size": 6,
+    "values": [
+      "a1_charge_duration",
+      "a2_charge_duration",
+      "a4_charge_duration",
+      "a5_charge_duration",
+      "tau1_charge_duration",
+      "tau2_charge_duration"
+    ]
+  },
+  "1": {
+    "size": 9,
+    "values": [
+      "a1_initial_voltage",
+      "a2_initial_voltage",
+      "a4_initial_voltage",
+      "a5_initial_voltage",
+      "final_voltage",
+      "initial_voltage",
+      "nominal_voltage",
+      "tau1_initial_voltage",
+      "tau2_initial_voltage"
+    ]
+  },
+  "3": {
+    "size": 16,
+    "values": [
+      "abrasion_retention",
+      "production_rate",
+      "rate_retention",
+      "rate_retention_ratio",
+      "ratio_retention",
+      "reduction_rate",
+      "reduction_time",
+      "rejection_rate",
+      "retention_rate",
+      "retention_ratio",
+      "retention_time",
+      "underwater_retention",
+      "vibration_retention",
+      "water_retention",
+      "water_retention_loss",
+      "water_retention_rate"
+    ]
+  },
+  "5": {
+    "size": 5,
+    "values": [
+      "absolute_emi_shielding_effectiveness",
+      "emi_shielding_effectiveness",
+      "shielding_effectiveness",
+      "specific_shielding_effectiveness",
+      "total_shielding_effectiveness"
+    ]
+  },
+  "12": {
+    "size": 28,
+    "values": [
+      "absorption_capacitance",
+      "absorption_capacity",
+      "adsorption_capacitance",
+      "adsorption_capacity",
+      "areal_adsorption_capacity",
+      "co2_adsorption_capacity",
+      "co2_sorption_capacity",
+      "deionization_capacity",
+      "delithiation_capacity",
+      "desalination_capacity",
+      "desodiation_capacity",
+      "electroadsorption_capacity",
+      "electroadsorption_rate",
+      "electrolyte_absorption",
+      "electrolyte_absorption_capacity",
+      "electrolyte_absorption_rate",
+      "electrolyte_adsorption_ratio",
+      "electrosorption_capacity",
+      "electrosorption_rate",
+      "heavy_metal_adsorption_capacity",
+      "lithiation_capacity",
+      "prelithiated_capacity",
+      "prelithiation_capacity",
+      "salt_adsorption_capacity",
+      "salt_adsorption_capacity_loss",
+      "sodiation_capacity",
+      "sorption_capacity",
+      "theoretical_adsorption_capacity"
+    ]
+  },
+  "13": {
+    "size": 16,
+    "values": [
+      "absorption_coefficient",
+      "absorption_efficiency",
+      "adsorption_efficiency",
+      "coloration_efficiency",
+      "coloring_efficiency",
+      "cycling_efficiency",
+      "decolorization_efficiency",
+      "decomposition_efficiency",
+      "decoupling_efficiency",
+      "deposition_efficiency",
+      "desalination_efficiency",
+      "desorption_efficiency",
+      "discoloration_efficiency",
+      "equalization_efficiency",
+      "mineralization_efficiency",
+      "working_efficiency"
+    ]
+  },
+  "14": {
+    "size": 10,
+    "values": [
+      "absorption_duration",
+      "absorption_ratio",
+      "adsorption_heat",
+      "adsorption_rate",
+      "adsorption_time",
+      "areal_adsorption_rate",
+      "desorption_rate",
+      "desorption_ratio",
+      "salt_adsorption",
+      "salt_adsorption_rate"
+    ]
+  },
+  "16": {
+    "size": 2,
+    "values": [
+      "absorption_peak",
+      "uv_absorption_peak"
+    ]
+  },
+  "17": {
+    "size": 2,
+    "values": [
+      "absorption_peak_wavelength",
+      "absorption_wavelength"
+    ]
+  },
+  "19": {
+    "size": 5,
+    "values": [
+      "ac_conductivity",
+      "conductivity",
+      "contact_conductivity",
+      "dc_conductivity",
+      "surface_conductivity"
+    ]
+  },
+  "20": {
+    "size": 2,
+    "values": [
+      "ac_conductivity_exponent",
+      "conductivity_exponent"
+    ]
+  },
+  "21": {
+    "size": 35,
+    "values": [
+      "ac_resistance",
+      "access_resistance",
+      "area_resistance",
+      "areal_resistance",
+      "branch_resistance",
+      "cell_resistance",
+      "charge_discharge_resistance",
+      "charge_resistance",
+      "dc_resistance",
+      "device_resistance",
+      "discharge_resistance",
+      "eis_resistance",
+      "film_resistance",
+      "fuel_cell_resistance",
+      "ionic_resistance",
+      "ir_resistance",
+      "load_resistance",
+      "mesopore_resistance",
+      "ohmic_resistance",
+      "organic_resistance",
+      "pack_resistance",
+      "parallel_resistance",
+      "pore_resistance",
+      "pre_charge_resistance",
+      "rate_resistance",
+      "resistance",
+      "sei_resistance",
+      "self_discharge_resistance",
+      "series_resistance",
+      "sheet_resistance",
+      "shunt_resistance",
+      "slow_branch_resistance",
+      "stack_resistance",
+      "water_resistance",
+      "wear_resistance"
+    ]
+  },
+  "22": {
+    "size": 3,
+    "values": [
+      "ac_resistivity",
+      "dc_resistivity",
+      "resistivity"
+    ]
+  },
+  "23": {
+    "size": 2,
+    "values": [
+      "acceleration_proportion",
+      "deceleration_proportion"
+    ]
+  },
+  "29": {
+    "size": 3,
+    "values": [
+      "accessible_dft_surface_area",
+      "accessible_surface_area",
+      "accessible_surface_area_ratio"
+    ]
+  },
+  "34": {
+    "size": 3,
+    "values": [
+      "accumulated_energy",
+      "circulated_energy",
+      "cumulative_energy"
+    ]
+  },
+  "48": {
+    "size": 5,
+    "values": [
+      "activation_energy",
+      "activation_enthalpy",
+      "activation_entropy",
+      "gibbs_activation_energy",
+      "vtf_activation_energy"
+    ]
+  },
+  "60": {
+    "size": 3,
+    "values": [
+      "active_layer_thickness",
+      "active_material_thickness",
+      "protective_layer_thickness"
+    ]
+  },
+  "81": {
+    "size": 6,
+    "values": [
+      "active_surface_area",
+      "bet_surface_area",
+      "defect_surface_area",
+      "dft_surface_area",
+      "effective_surface_area",
+      "surface_area"
+    ]
+  },
+  "85": {
+    "size": 4,
+    "values": [
+      "activity_retention",
+      "conductivity_retention",
+      "ionic_conductivity_retention",
+      "photoactivity_retention"
+    ]
+  },
+  "88": {
+    "size": 2,
+    "values": [
+      "actual_energy_consumption",
+      "optimal_energy_consumption"
+    ]
+  },
+  "102": {
+    "size": 2,
+    "values": [
+      "adhesion_strength",
+      "adhesive_strength"
+    ]
+  },
+  "114": {
+    "size": 5,
+    "values": [
+      "adsorption_capacitance_contribution",
+      "diffusion_capacitance_contribution",
+      "diffusion_controlled_capacitance_contribution",
+      "diffusive_capacitive_contribution",
+      "nondiffusion_capacitance_contribution"
+    ]
+  },
+  "116": {
+    "size": 2,
+    "values": [
+      "adsorption_capacity_retention",
+      "salt_adsorption_capacity_retention"
+    ]
+  },
+  "117": {
+    "size": 2,
+    "values": [
+      "adsorption_cycle_retention",
+      "adsorption_retention"
+    ]
+  },
+  "119": {
+    "size": 6,
+    "values": [
+      "adsorption_energy",
+      "adsorption_enthalpy",
+      "adsorption_entropy",
+      "adsorption_free_energy",
+      "adsorption_gibbs_energy",
+      "adsorption_gibbs_free_energy"
+    ]
+  },
+  "120": {
+    "size": 2,
+    "values": [
+      "adsorption_equilibrium_time",
+      "desorption_equilibrium_time"
+    ]
+  },
+  "121": {
+    "size": 2,
+    "values": [
+      "adsorption_kinetics",
+      "adsorption_kinetics_r2"
+    ]
+  },
+  "122": {
+    "size": 2,
+    "values": [
+      "adsorption_pore_diameter",
+      "desorption_pore_diameter"
+    ]
+  },
+  "124": {
+    "size": 15,
+    "values": [
+      "adsorption_rate_constant",
+      "degradation_rate_constant",
+      "desorption_rate_constant",
+      "electron_rate_constant",
+      "electrosorption_rate_constant",
+      "photocatalytic_degradation",
+      "photocatalytic_degradation_efficiency",
+      "photocatalytic_degradation_rate",
+      "photocatalytic_degradation_rate_constant",
+      "photocatalytic_degradation_time",
+      "photocatalytic_reaction_rate",
+      "photocatalytic_recycling_efficiency",
+      "photocatalytic_reduction_efficiency",
+      "photodegradation_rate_constant",
+      "reaction_rate_constant"
+    ]
+  },
+  "128": {
+    "size": 5,
+    "values": [
+      "adsorption_resistance",
+      "conduction_resistance",
+      "convection_resistance",
+      "desorption_resistance",
+      "solution_resistance"
+    ]
+  },
+  "130": {
+    "size": 2,
+    "values": [
+      "adsorption_volume",
+      "desorption_volume"
+    ]
+  },
+  "140": {
+    "size": 18,
+    "values": [
+      "aging_temperature",
+      "annealing_temperature",
+      "charge_temperature",
+      "cooling_temperature",
+      "curie_temperature",
+      "curing_temperature",
+      "discharge_temperature",
+      "drying_temperature",
+      "end_of_discharge_temperature",
+      "fast_charge_temperature",
+      "gelation_temperature",
+      "heating_temperature",
+      "joule_heating_temperature",
+      "melting_temperature",
+      "operating_temperature",
+      "operating_temperature_range",
+      "phase_change_temperature",
+      "phase_change_temperature_shift"
+    ]
+  },
+  "142": {
+    "size": 4,
+    "values": [
+      "ai_content",
+      "ash_content",
+      "mass_content",
+      "pani_content"
+    ]
+  },
+  "145": {
+    "size": 4,
+    "values": [
+      "air_permeability",
+      "permeability",
+      "water_permeability",
+      "water_vapor_permeability"
+    ]
+  },
+  "171": {
+    "size": 2,
+    "values": [
+      "anion_size",
+      "cation_size"
+    ]
+  },
+  "179": {
+    "size": 146,
+    "values": [
+      "anode_capacitance",
+      "anode_capacity",
+      "area_capacitance",
+      "area_capacitance_retention",
+      "area_capacity",
+      "area_capacity_retention",
+      "area_specific_capacitance",
+      "area_specific_capacity",
+      "areal_capacitance",
+      "areal_capacitance_increase",
+      "areal_capacitance_retention",
+      "areal_capacity",
+      "areal_specific_capacitance",
+      "areal_specific_capacitance_retention",
+      "areal_specific_capacity",
+      "battery_capacitance",
+      "battery_capacity",
+      "battery_capacity_loss",
+      "capacitance_decay",
+      "capacitance_decay_rate",
+      "capacitance_decrease",
+      "capacitance_degradation",
+      "capacitance_fade",
+      "capacitance_fade_rate",
+      "capacitance_increase",
+      "capacitance_increase_factor",
+      "capacitance_overestimation",
+      "capacitance_ratio",
+      "capacitance_restoration",
+      "capacitance_retention",
+      "capacitance_retention_loss",
+      "capacitance_variation",
+      "capacitive_fraction",
+      "capacitive_ratio",
+      "capacity_decay_rate",
+      "capacity_decrease",
+      "capacity_degradation",
+      "capacity_fade_rate",
+      "capacity_increase",
+      "capacity_increase_factor",
+      "capacity_ratio",
+      "capacity_retention",
+      "capacity_variation",
+      "cathode_capacitance",
+      "cathode_capacity",
+      "cell_capacitance",
+      "charge_capacitance",
+      "charge_capacity",
+      "charged_capacity",
+      "charging_capacitance",
+      "charging_capacity",
+      "chemical_capacitance",
+      "debye_capacitance",
+      "device_areal_capacitance",
+      "device_capacitance",
+      "device_capacitance_loss",
+      "device_capacitance_retention",
+      "device_capacity_retention",
+      "device_specific_capacitance",
+      "device_specific_capacitance_retention",
+      "device_specific_capacity",
+      "discharge_capacitance",
+      "discharge_capacitance_loss",
+      "discharge_capacity",
+      "discharge_capacity_ratio",
+      "discharge_specific_capacity",
+      "discharging_capacity",
+      "edlc_capacitance",
+      "electrical_conductance",
+      "electrochemical_capacitance",
+      "electrochemical_conductance",
+      "electrochemical_constant",
+      "electrode_capacitance",
+      "electrode_capacity",
+      "electrolyte_capacitance",
+      "face_capacitance",
+      "field_capacitance",
+      "film_capacitance",
+      "final_capacitance",
+      "final_capacity",
+      "gate_capacitance",
+      "initial_capacitance",
+      "initial_capacity",
+      "initial_capacity_loss",
+      "integral_capacitance",
+      "integrated_capacitance",
+      "interfacial_capacitance",
+      "internal_capacitance",
+      "limit_capacitance",
+      "limiting_capacitance",
+      "limiting_capacitance_ratio",
+      "linear_capacitance",
+      "mass_capacitance",
+      "mass_specific_capacitance",
+      "matching_capacitance",
+      "mean_capacitance",
+      "nominal_capacitance",
+      "nominal_capacity",
+      "parallel_capacitance",
+      "planar_capacitance",
+      "pseudocapacitance",
+      "pseudocapacitance_fraction",
+      "pseudocapacitance_ratio",
+      "rate_capacitance",
+      "rated_capacitance",
+      "real_capacitance_ratio",
+      "relative_capacitance",
+      "relative_capacitance_change",
+      "relative_capacitance_increase",
+      "removal_capacity",
+      "residual_capacitance",
+      "residual_capacitance_loss",
+      "sei_capacitance",
+      "series_capacitance",
+      "specific_capacitance",
+      "specific_capacitance_change",
+      "specific_capacitance_decay",
+      "specific_capacitance_decay_rate",
+      "specific_capacitance_decrease",
+      "specific_capacitance_density",
+      "specific_capacitance_drop",
+      "specific_capacitance_increase",
+      "specific_capacitance_loss",
+      "specific_capacitance_ratio",
+      "specific_capacitance_reduction",
+      "specific_capacitance_retention",
+      "specific_capacity",
+      "specific_capacity_retention",
+      "specific_charge_capacity",
+      "specific_discharge_capacity",
+      "specific_heat_capacity",
+      "specific_pseudocapacitance",
+      "stored_capacitance",
+      "surface_area_capacitance",
+      "surface_capacitance",
+      "surface_capacitance_fraction",
+      "surface_capacitance_ratio",
+      "surface_specific_capacitance",
+      "theoretical_capacitance",
+      "theoretical_capacity",
+      "theoretical_specific_capacitance",
+      "theoretical_specific_capacity",
+      "thermal_capacitance",
+      "thermal_capacity",
+      "total_capacitance",
+      "two_electrode_capacity"
+    ]
+  },
+  "180": {
+    "size": 4,
+    "values": [
+      "anode_open_circuit_potential",
+      "open_circuit_potential",
+      "open_circuit_potential_decay",
+      "open_circuit_potential_drop"
+    ]
+  },
+  "181": {
+    "size": 5,
+    "values": [
+      "anode_potential",
+      "anodic_peak_potential",
+      "anodic_potential",
+      "cathodic_peak_potential",
+      "cathodic_potential"
+    ]
+  },
+  "182": {
+    "size": 4,
+    "values": [
+      "anode_resistance",
+      "cathode_resistance",
+      "diode_resistance",
+      "zno_resistance"
+    ]
+  },
+  "183": {
+    "size": 2,
+    "values": [
+      "anodes_per_unit",
+      "cathodes_per_unit"
+    ]
+  },
+  "186": {
+    "size": 8,
+    "values": [
+      "anodic_charge_storage_capacity",
+      "charge_storage_capability",
+      "charge_storage_capacity",
+      "energy_storage_capability",
+      "energy_storage_capacity",
+      "hydrogen_storage_capacity",
+      "hydrogen_uptake_capacity",
+      "methane_storage_capacity"
+    ]
+  },
+  "187": {
+    "size": 4,
+    "values": [
+      "anodic_current_density",
+      "catalytic_current_density",
+      "cathodic_current_density",
+      "electrocatalytic_current_density"
+    ]
+  },
+  "188": {
+    "size": 2,
+    "values": [
+      "anodic_energy",
+      "cathodic_energy"
+    ]
+  },
+  "190": {
+    "size": 2,
+    "values": [
+      "anodic_peak_current",
+      "cathodic_peak_current"
+    ]
+  },
+  "193": {
+    "size": 4,
+    "values": [
+      "anodic_stability",
+      "anodic_stability_limit",
+      "cathodic_stability",
+      "cathodic_stability_limit"
+    ]
+  },
+  "194": {
+    "size": 16,
+    "values": [
+      "anodic_transfer_coefficient",
+      "cathodic_transfer_coefficient",
+      "charge_transfer_coefficient",
+      "electron_transfer_coefficient",
+      "electronic_transfer_coefficient",
+      "energy_charge_efficiency",
+      "energy_charging_efficiency",
+      "energy_storage_efficiency",
+      "energy_transfer_efficiency",
+      "formal_charge_transfer_coefficient",
+      "heat_transfer_coefficient",
+      "mass_transfer_coefficient",
+      "maximum_energy_transfer_efficiency",
+      "power_transfer_efficiency",
+      "transfer_coefficient",
+      "transfer_efficiency"
+    ]
+  },
+  "199": {
+    "size": 4,
+    "values": [
+      "antibacterial_inhibition",
+      "antibacterial_inhibition_zone",
+      "antimicrobial_inhibition_zone",
+      "bacterial_inhibition"
+    ]
+  },
+  "208": {
+    "size": 2,
+    "values": [
+      "apparent_density",
+      "apparent_wall_density"
+    ]
+  },
+  "225": {
+    "size": 2,
+    "values": [
+      "aqueous_parameter_n",
+      "non_aqueous_parameter_n"
+    ]
+  },
+  "229": {
+    "size": 8,
+    "values": [
+      "area_normalized_capacitance",
+      "area_normalized_capacity",
+      "mass_normalized_capacity",
+      "normalized_capacitance",
+      "normalized_capacity",
+      "surface_area_normalized_capacitance",
+      "surface_area_normalized_resistance",
+      "surface_normalized_capacitance"
+    ]
+  },
+  "230": {
+    "size": 2,
+    "values": [
+      "area_specific_resistance",
+      "specific_resistance"
+    ]
+  },
+  "233": {
+    "size": 60,
+    "values": [
+      "areal_current_density",
+      "charge_current",
+      "charge_discharge_current",
+      "charge_discharge_current_density",
+      "charging_current",
+      "corrosion_current_density",
+      "critical_current_density",
+      "current_density",
+      "current_sensitivity",
+      "discharge_current",
+      "discharge_current_density",
+      "discharge_current_range",
+      "exchange_current",
+      "exchange_current_density",
+      "kinetic_current_density",
+      "leakage_current_density",
+      "log_exchange_current_density",
+      "maximum_cell_voltage",
+      "maximum_charge_current",
+      "maximum_charge_discharge_current",
+      "maximum_charge_discharge_rate",
+      "maximum_charge_rate",
+      "maximum_charge_state",
+      "maximum_charge_voltage",
+      "maximum_charging_current",
+      "maximum_charging_voltage",
+      "maximum_current",
+      "maximum_current_ramp",
+      "maximum_current_ramp_rate",
+      "maximum_dc_current",
+      "maximum_discharge_current",
+      "maximum_discharge_current_density",
+      "maximum_discharge_rate",
+      "maximum_discharging_current",
+      "maximum_discharging_rate",
+      "maximum_leakage_current",
+      "maximum_loaded_current",
+      "maximum_operating_current",
+      "maximum_operating_point_current",
+      "maximum_peak_current",
+      "maximum_power_current",
+      "maximum_power_curtailment",
+      "maximum_power_point_current",
+      "maximum_voltage",
+      "minimum_cell_voltage",
+      "minimum_charge_state",
+      "minimum_current",
+      "minimum_discharge_voltage",
+      "minimum_voltage",
+      "orr_current_density",
+      "partial_current_density",
+      "peak_charge_current",
+      "peak_current_density",
+      "peak_discharge_current",
+      "photocurrent_density",
+      "photocurrent_sensitivity",
+      "rated_discharge_current",
+      "ring_current",
+      "self_charging_current",
+      "self_discharge_current"
+    ]
+  },
+  "234": {
+    "size": 2,
+    "values": [
+      "areal_density",
+      "real_density"
+    ]
+  },
+  "237": {
+    "size": 4,
+    "values": [
+      "areal_energy_density",
+      "packaged_energy_density",
+      "peak_energy_density",
+      "real_energy_density"
+    ]
+  },
+  "238": {
+    "size": 3,
+    "values": [
+      "areal_energy_density_retention",
+      "energy_density_retention",
+      "power_density_retention"
+    ]
+  },
+  "244": {
+    "size": 7,
+    "values": [
+      "areal_power_density",
+      "packaged_power_density",
+      "peak_power_density",
+      "pulse_power_density",
+      "rated_power_density",
+      "real_power_density",
+      "thermal_power_density"
+    ]
+  },
+  "245": {
+    "size": 9,
+    "values": [
+      "areal_specific_energy_density",
+      "areal_specific_power_density",
+      "length_specific_energy_density",
+      "length_specific_power_density",
+      "mass_specific_power_density",
+      "specific_areal_energy_density",
+      "specific_areal_power_density",
+      "specific_energy_density",
+      "specific_power_density"
+    ]
+  },
+  "251": {
+    "size": 4,
+    "values": [
+      "asc_capacity",
+      "hsc_capacity",
+      "mass_capacity",
+      "pack_capacity"
+    ]
+  },
+  "257": {
+    "size": 3,
+    "values": [
+      "atomic_percent",
+      "atomic_percentage",
+      "xps_atomic_percentage"
+    ]
+  },
+  "270": {
+    "size": 2,
+    "values": [
+      "average_absolute_percentage_error",
+      "mean_absolute_percentage_error"
+    ]
+  },
+  "271": {
+    "size": 2,
+    "values": [
+      "average_acceleration",
+      "average_deceleration"
+    ]
+  },
+  "276": {
+    "size": 3,
+    "values": [
+      "average_cell_voltage",
+      "average_voltage",
+      "overall_cell_voltage"
+    ]
+  },
+  "281": {
+    "size": 2,
+    "values": [
+      "average_crystal_size",
+      "average_crystallite_size"
+    ]
+  },
+  "287": {
+    "size": 3,
+    "values": [
+      "average_diameter",
+      "average_particle_diameter",
+      "average_pore_diameter"
+    ]
+  },
+  "289": {
+    "size": 12,
+    "values": [
+      "average_efficiency",
+      "charge_discharge_efficiency",
+      "charge_efficiency",
+      "charging_efficiency",
+      "discharge_efficiency",
+      "discharging_efficiency",
+      "healing_efficiency",
+      "leaching_efficiency",
+      "photo_charging_efficiency",
+      "photocharging_efficiency",
+      "self_healing_efficiency",
+      "shielding_efficiency"
+    ]
+  },
+  "295": {
+    "size": 2,
+    "values": [
+      "average_grain_size",
+      "average_granule_size"
+    ]
+  },
+  "299": {
+    "size": 2,
+    "values": [
+      "average_micropore_width",
+      "average_pore_width"
+    ]
+  },
+  "300": {
+    "size": 3,
+    "values": [
+      "average_molecular_weight",
+      "number_average_molecular_weight",
+      "weight_average_molecular_weight"
+    ]
+  },
+  "303": {
+    "size": 2,
+    "values": [
+      "average_particle_radius",
+      "average_pore_radius"
+    ]
+  },
+  "305": {
+    "size": 2,
+    "values": [
+      "average_pore_area",
+      "large_pore_area"
+    ]
+  },
+  "314": {
+    "size": 2,
+    "values": [
+      "average_state_of_charge",
+      "target_state_of_charge"
+    ]
+  },
+  "321": {
+    "size": 7,
+    "values": [
+      "b_value",
+      "g_value",
+      "k1_value",
+      "k_value",
+      "n_value",
+      "r_value",
+      "w_value"
+    ]
+  },
+  "329": {
+    "size": 2,
+    "values": [
+      "balancing_time",
+      "bleaching_time"
+    ]
+  },
+  "332": {
+    "size": 2,
+    "values": [
+      "band_gap_energy",
+      "bandgap_energy"
+    ]
+  },
+  "334": {
+    "size": 3,
+    "values": [
+      "band_shift",
+      "d_band_shift",
+      "g_band_shift"
+    ]
+  },
+  "344": {
+    "size": 4,
+    "values": [
+      "basic_functional_group_content",
+      "functional_group_concentration",
+      "functional_group_content",
+      "oxygen_functional_group_content"
+    ]
+  },
+  "349": {
+    "size": 2,
+    "values": [
+      "battery_count",
+      "battery_current"
+    ]
+  },
+  "350": {
+    "size": 3,
+    "values": [
+      "battery_degradation",
+      "battery_degradation_cost",
+      "battery_degradation_rate"
+    ]
+  },
+  "357": {
+    "size": 3,
+    "values": [
+      "battery_voltage",
+      "full_battery_voltage",
+      "idle_battery_voltage"
+    ]
+  },
+  "361": {
+    "size": 4,
+    "values": [
+      "bending_capacitance",
+      "bending_capacitance_loss",
+      "bending_capacity",
+      "bending_capacity_loss"
+    ]
+  },
+  "369": {
+    "size": 2,
+    "values": [
+      "bending_efficiency",
+      "sensing_efficiency"
+    ]
+  },
+  "370": {
+    "size": 3,
+    "values": [
+      "bending_length",
+      "bending_strength",
+      "bonding_strength"
+    ]
+  },
+  "385": {
+    "size": 2,
+    "values": [
+      "bet_specific_surface_area",
+      "specific_surface_area"
+    ]
+  },
+  "389": {
+    "size": 3,
+    "values": [
+      "bilayer_capacitance",
+      "micro_capacitance",
+      "miller_capacitance"
+    ]
+  },
+  "404": {
+    "size": 2,
+    "values": [
+      "biochar_yield",
+      "char_yield"
+    ]
+  },
+  "408": {
+    "size": 3,
+    "values": [
+      "biofilm_thickness",
+      "film_thickness",
+      "foam_thickness"
+    ]
+  },
+  "410": {
+    "size": 2,
+    "values": [
+      "biomass_yield",
+      "mass_yield"
+    ]
+  },
+  "412": {
+    "size": 2,
+    "values": [
+      "bivariate_quadratic_c_e",
+      "bivariate_quadratic_e_c"
+    ]
+  },
+  "413": {
+    "size": 3,
+    "values": [
+      "bjh_pore_diameter",
+      "hk_pore_diameter",
+      "pore_diameter"
+    ]
+  },
+  "415": {
+    "size": 2,
+    "values": [
+      "bleached_transmittance",
+      "bleaching_transmittance"
+    ]
+  },
+  "416": {
+    "size": 2,
+    "values": [
+      "bleaching_response_time",
+      "heating_response_time"
+    ]
+  },
+  "425": {
+    "size": 2,
+    "values": [
+      "boost_converter_efficiency",
+      "buck_boost_converter_efficiency"
+    ]
+  },
+  "432": {
+    "size": 2,
+    "values": [
+      "branch_capacitance",
+      "slow_branch_capacitance"
+    ]
+  },
+  "438": {
+    "size": 2,
+    "values": [
+      "breakdown_strength",
+      "breaking_strength"
+    ]
+  },
+  "443": {
+    "size": 3,
+    "values": [
+      "bromination_degree",
+      "debromination_degree",
+      "deprotonation_degree"
+    ]
+  },
+  "459": {
+    "size": 2,
+    "values": [
+      "bus_voltage",
+      "dc_bus_voltage"
+    ]
+  },
+  "460": {
+    "size": 3,
+    "values": [
+      "bus_voltage_stability",
+      "voltage_stability",
+      "voltage_stability_time"
+    ]
+  },
+  "461": {
+    "size": 4,
+    "values": [
+      "bus_voltage_variation",
+      "voltage_deviation",
+      "voltage_polarization",
+      "voltage_variation"
+    ]
+  },
+  "469": {
+    "size": 9,
+    "values": [
+      "c_a_ratio",
+      "c_o_ratio",
+      "co3_co2_ratio",
+      "co_co2_ratio",
+      "lc_la_ratio",
+      "mn_c_ratio",
+      "mn_o_ratio",
+      "n_c_ratio",
+      "o_c_ratio"
+    ]
+  },
+  "470": {
+    "size": 2,
+    "values": [
+      "c_max",
+      "cp_max"
+    ]
+  },
+  "471": {
+    "size": 8,
+    "values": [
+      "c_o_bond_content",
+      "carbon_content",
+      "carbonyl_content",
+      "cc_bond_content",
+      "sp2_carbon_content",
+      "sp2_cc_bond_content",
+      "sp3_cc_bond_content",
+      "xps_carbon_content"
+    ]
+  },
+  "472": {
+    "size": 5,
+    "values": [
+      "c_o_group",
+      "c_oh_group",
+      "o_c_o_group",
+      "oc_oh_group",
+      "ro_c_o_group"
+    ]
+  },
+  "474": {
+    "size": 2,
+    "values": [
+      "c_prime",
+      "q_prime"
+    ]
+  },
+  "483": {
+    "size": 6,
+    "values": [
+      "capacitance_contribution",
+      "capacitive_contribution",
+      "pseudocapacitance_contribution",
+      "pseudocapacitive_contribution",
+      "pseudocapacitive_contribution_ratio",
+      "quantum_capacitance_contribution"
+    ]
+  },
+  "484": {
+    "size": 2,
+    "values": [
+      "capacitance_density",
+      "capacity_density"
+    ]
+  },
+  "485": {
+    "size": 2,
+    "values": [
+      "capacitance_diffusion_threshold",
+      "capacitance_dispersion_threshold"
+    ]
+  },
+  "489": {
+    "size": 2,
+    "values": [
+      "capacitance_drude",
+      "capacitance_ground"
+    ]
+  },
+  "490": {
+    "size": 2,
+    "values": [
+      "capacitance_efficiency",
+      "capacity_efficiency"
+    ]
+  },
+  "491": {
+    "size": 3,
+    "values": [
+      "capacitance_enhancement",
+      "capacitance_enhancement_factor",
+      "capacity_enhancement"
+    ]
+  },
+  "495": {
+    "size": 2,
+    "values": [
+      "capacitance_holding_ratio",
+      "capacity_holding_ratio"
+    ]
+  },
+  "496": {
+    "size": 3,
+    "values": [
+      "capacitance_loss",
+      "capacitance_loss_rate",
+      "capacity_loss_rate"
+    ]
+  },
+  "498": {
+    "size": 2,
+    "values": [
+      "capacitance_per_element",
+      "capacitance_per_length"
+    ]
+  },
+  "499": {
+    "size": 2,
+    "values": [
+      "capacitance_percentage",
+      "pseudocapacitance_percentage"
+    ]
+  },
+  "500": {
+    "size": 2,
+    "values": [
+      "capacitance_recovery",
+      "capacity_recovery"
+    ]
+  },
+  "510": {
+    "size": 2,
+    "values": [
+      "capacitive_capacity",
+      "pseudocapacitive_capacity"
+    ]
+  },
+  "514": {
+    "size": 2,
+    "values": [
+      "capacitive_reactance",
+      "capacitive_resistance"
+    ]
+  },
+  "515": {
+    "size": 2,
+    "values": [
+      "capacitor_voltage",
+      "supercapacitor_voltage"
+    ]
+  },
+  "517": {
+    "size": 2,
+    "values": [
+      "capacity_change",
+      "capacity_range"
+    ]
+  },
+  "528": {
+    "size": 2,
+    "values": [
+      "capacity_loss_reduction",
+      "capacity_reduction"
+    ]
+  },
+  "537": {
+    "size": 5,
+    "values": [
+      "carbon_fraction",
+      "carbon_mass_fraction",
+      "carbon_ratio",
+      "sp2_carbon_fraction",
+      "sp3_carbon_fraction"
+    ]
+  },
+  "544": {
+    "size": 2,
+    "values": [
+      "carbon_shell_thickness",
+      "carbon_wall_thickness"
+    ]
+  },
+  "549": {
+    "size": 2,
+    "values": [
+      "carbonization_time",
+      "carbonization_yield"
+    ]
+  },
+  "550": {
+    "size": 2,
+    "values": [
+      "carbonyl_group",
+      "carboxyl_group"
+    ]
+  },
+  "551": {
+    "size": 3,
+    "values": [
+      "carbonyl_group_content",
+      "carboxyl_group_content",
+      "hydroxyl_group_content"
+    ]
+  },
+  "558": {
+    "size": 4,
+    "values": [
+      "carrier_density_ratio",
+      "charge_density_ratio",
+      "charge_density_retention",
+      "current_density_retention"
+    ]
+  },
+  "562": {
+    "size": 5,
+    "values": [
+      "catalytic_activity",
+      "photocatalytic_activity",
+      "photocatalytic_recyclability",
+      "photocatalytic_reusability",
+      "photocatalytic_stability"
+    ]
+  },
+  "567": {
+    "size": 2,
+    "values": [
+      "catalytic_rate_constant",
+      "photocatalytic_rate_constant"
+    ]
+  },
+  "568": {
+    "size": 2,
+    "values": [
+      "catalytic_reduction_current",
+      "catalytic_reduction_percent"
+    ]
+  },
+  "576": {
+    "size": 2,
+    "values": [
+      "cation_transference_number",
+      "zinc_ion_transference_number"
+    ]
+  },
+  "581": {
+    "size": 8,
+    "values": [
+      "ce_thickness",
+      "cei_thickness",
+      "device_thickness",
+      "gel_thickness",
+      "nanosheet_thickness",
+      "sheet_thickness",
+      "shell_thickness",
+      "thickness"
+    ]
+  },
+  "585": {
+    "size": 2,
+    "values": [
+      "cell_constant",
+      "cpe_constant"
+    ]
+  },
+  "590": {
+    "size": 4,
+    "values": [
+      "cell_efficiency",
+      "fuel_cell_efficiency",
+      "fuel_efficiency",
+      "full_cell_efficiency"
+    ]
+  },
+  "600": {
+    "size": 7,
+    "values": [
+      "cell_voltage",
+      "led_operating_voltage",
+      "open_cell_voltage",
+      "operating_cell_voltage",
+      "operating_voltage",
+      "operating_voltage_range",
+      "per_cell_voltage"
+    ]
+  },
+  "607": {
+    "size": 2,
+    "values": [
+      "cellulose_mass_fraction",
+      "hemicellulose_mass_fraction"
+    ]
+  },
+  "620": {
+    "size": 2,
+    "values": [
+      "charge_acceptance_factor",
+      "charge_acceptance_power"
+    ]
+  },
+  "622": {
+    "size": 2,
+    "values": [
+      "charge_accumulation",
+      "charge_accumulation_rate"
+    ]
+  },
+  "628": {
+    "size": 3,
+    "values": [
+      "charge_contribution",
+      "inner_charge_contribution",
+      "outer_charge_contribution"
+    ]
+  },
+  "629": {
+    "size": 2,
+    "values": [
+      "charge_deintercalation",
+      "charge_intercalation"
+    ]
+  },
+  "632": {
+    "size": 5,
+    "values": [
+      "charge_discharge",
+      "charge_discharge_cycle_time",
+      "charge_discharge_cycles",
+      "charge_discharge_rate",
+      "charge_discharge_time"
+    ]
+  },
+  "639": {
+    "size": 4,
+    "values": [
+      "charge_energy",
+      "charging_energy",
+      "discharge_energy",
+      "discharging_energy"
+    ]
+  },
+  "640": {
+    "size": 4,
+    "values": [
+      "charge_leakage_time_constant",
+      "discharge_leakage_time_constant",
+      "discharge_time_constant",
+      "self_discharge_time_constant"
+    ]
+  },
+  "642": {
+    "size": 12,
+    "values": [
+      "charge_overpotential",
+      "charging_potential",
+      "discharge_overpotential",
+      "discharge_potential",
+      "her_overpotential",
+      "overpotential",
+      "overpotential_gap",
+      "potential_gap",
+      "self_charging_potential",
+      "self_discharge_potential",
+      "self_discharge_potential_drop",
+      "self_discharge_potential_retention"
+    ]
+  },
+  "643": {
+    "size": 2,
+    "values": [
+      "charge_per_unit_area",
+      "charge_per_unit_mass"
+    ]
+  },
+  "644": {
+    "size": 2,
+    "values": [
+      "charge_power",
+      "discharge_power"
+    ]
+  },
+  "645": {
+    "size": 3,
+    "values": [
+      "charge_power_improvement",
+      "discharge_energy_improvement",
+      "discharge_power_improvement"
+    ]
+  },
+  "646": {
+    "size": 7,
+    "values": [
+      "charge_rate",
+      "charge_ratio",
+      "charge_time",
+      "discharge_c_rate",
+      "discharge_range",
+      "discharge_rate",
+      "discharge_time"
+    ]
+  },
+  "647": {
+    "size": 2,
+    "values": [
+      "charge_recombination_resistance",
+      "recombination_resistance"
+    ]
+  },
+  "651": {
+    "size": 19,
+    "values": [
+      "charge_retention",
+      "charging_retention",
+      "cut_healing_retention",
+      "discharge_retention",
+      "healing_retention",
+      "self_charging_rate_retention",
+      "self_charging_voltage_retention",
+      "self_discharge_drop",
+      "self_discharge_energy_retention",
+      "self_discharge_half_time",
+      "self_discharge_rate",
+      "self_discharge_ratio",
+      "self_discharge_retention",
+      "self_discharge_slope",
+      "self_discharge_time",
+      "self_discharge_voltage_retention",
+      "self_healing_retention",
+      "self_healing_strain_retention",
+      "self_healing_strength_retention"
+    ]
+  },
+  "652": {
+    "size": 2,
+    "values": [
+      "charge_retention_efficiency",
+      "cycle_retention_efficiency"
+    ]
+  },
+  "660": {
+    "size": 2,
+    "values": [
+      "charge_transfer_density",
+      "charge_transfer_quantity"
+    ]
+  },
+  "664": {
+    "size": 17,
+    "values": [
+      "charge_transfer_resistance",
+      "charge_transfer_resistance_increase",
+      "charge_transfer_resistance_ratio",
+      "charge_transport_resistance",
+      "electron_charge_transfer_resistance",
+      "electron_transfer_resistance",
+      "faradaic_charge_transfer_resistance",
+      "faradaic_transfer_resistance",
+      "ion_transfer_resistance",
+      "ion_transport_resistance",
+      "ionic_transport_resistance",
+      "mass_transport_resistance",
+      "pseudo_charge_transfer_resistance",
+      "total_transfer_resistance",
+      "transfer_resistance",
+      "transient_resistance",
+      "transport_resistance"
+    ]
+  },
+  "667": {
+    "size": 13,
+    "values": [
+      "charge_voltage",
+      "charged_voltage",
+      "charging_voltage",
+      "discharge_start_voltage",
+      "discharge_voltage",
+      "discharge_voltage_range",
+      "photocharging_voltage",
+      "self_charging_voltage",
+      "self_discharge_voltage",
+      "self_discharge_voltage_decay",
+      "self_discharge_voltage_decline",
+      "self_discharge_voltage_drop",
+      "self_discharge_voltage_loss"
+    ]
+  },
+  "670": {
+    "size": 2,
+    "values": [
+      "charging_cutoff_voltage",
+      "discharge_cutoff_voltage"
+    ]
+  },
+  "676": {
+    "size": 2,
+    "values": [
+      "charging_temperature_range",
+      "discharging_temperature_range"
+    ]
+  },
+  "677": {
+    "size": 2,
+    "values": [
+      "charging_threshold",
+      "discharging_threshold"
+    ]
+  },
+  "685": {
+    "size": 3,
+    "values": [
+      "chemical_stability",
+      "her_stability",
+      "thermal_stability"
+    ]
+  },
+  "688": {
+    "size": 2,
+    "values": [
+      "chi_square",
+      "chi_squared"
+    ]
+  },
+  "694": {
+    "size": 4,
+    "values": [
+      "chronoamperometry_duration",
+      "chronoamperometry_potential",
+      "chronoamperometry_retention",
+      "chronopotentiometry_duration"
+    ]
+  },
+  "702": {
+    "size": 3,
+    "values": [
+      "cnt_density",
+      "co2_density",
+      "co_density"
+    ]
+  },
+  "704": {
+    "size": 2,
+    "values": [
+      "co2_amount",
+      "co_amount"
+    ]
+  },
+  "708": {
+    "size": 3,
+    "values": [
+      "co2_tpd",
+      "co_tpd",
+      "o_tpd"
+    ]
+  },
+  "710": {
+    "size": 21,
+    "values": [
+      "co2_volume_concentration",
+      "co_volume_concentration",
+      "concentration",
+      "donor_concentration",
+      "dopant_concentration",
+      "dye_concentration",
+      "electrolyte_concentration",
+      "electron_concentration",
+      "gel_concentration",
+      "graphene_concentration",
+      "hc_volume_concentration",
+      "hole_concentration",
+      "initial_concentration",
+      "inlet_concentration",
+      "input_concentration",
+      "ion_concentration",
+      "iron_concentration",
+      "outlet_concentration",
+      "oxidant_concentration",
+      "phenol_concentration",
+      "solution_concentration"
+    ]
+  },
+  "711": {
+    "size": 3,
+    "values": [
+      "co2_working_capacity",
+      "work_capacity",
+      "working_capacity"
+    ]
+  },
+  "713": {
+    "size": 2,
+    "values": [
+      "co_generation_rate",
+      "smoke_generation_rate"
+    ]
+  },
+  "714": {
+    "size": 2,
+    "values": [
+      "co_oxidation_temperature",
+      "oxidation_temperature"
+    ]
+  },
+  "716": {
+    "size": 2,
+    "values": [
+      "co_tolerance",
+      "tolerance"
+    ]
+  },
+  "717": {
+    "size": 2,
+    "values": [
+      "coating_density",
+      "loading_density"
+    ]
+  },
+  "724": {
+    "size": 3,
+    "values": [
+      "coefficient_a",
+      "coefficient_b",
+      "coefficient_c"
+    ]
+  },
+  "731": {
+    "size": 2,
+    "values": [
+      "coherence_time",
+      "convergence_time"
+    ]
+  },
+  "737": {
+    "size": 2,
+    "values": [
+      "cold_side_temperature",
+      "hot_side_temperature"
+    ]
+  },
+  "746": {
+    "size": 4,
+    "values": [
+      "coloration_time",
+      "coloring_time",
+      "cooling_time",
+      "discoloration_time"
+    ]
+  },
+  "761": {
+    "size": 5,
+    "values": [
+      "composition",
+      "decomposition",
+      "deposition",
+      "mass_decomposition",
+      "tga_decomposition"
+    ]
+  },
+  "763": {
+    "size": 3,
+    "values": [
+      "composition_ratio",
+      "decomposition_rate",
+      "deposition_rate"
+    ]
+  },
+  "767": {
+    "size": 2,
+    "values": [
+      "compression_pressure",
+      "pressing_pressure"
+    ]
+  },
+  "768": {
+    "size": 3,
+    "values": [
+      "compression_ratio",
+      "compression_strain",
+      "compressive_strain"
+    ]
+  },
+  "773": {
+    "size": 2,
+    "values": [
+      "compressive_strength",
+      "compressive_yield_strength"
+    ]
+  },
+  "779": {
+    "size": 2,
+    "values": [
+      "conductance",
+      "inductance"
+    ]
+  },
+  "784": {
+    "size": 2,
+    "values": [
+      "conductivity_error",
+      "connectivity_error"
+    ]
+  },
+  "786": {
+    "size": 3,
+    "values": [
+      "conductivity_increase",
+      "conductivity_increase_factor",
+      "ionic_conductivity_increase"
+    ]
+  },
+  "791": {
+    "size": 2,
+    "values": [
+      "constant_capacitance",
+      "fitted_constant_capacitance"
+    ]
+  },
+  "792": {
+    "size": 7,
+    "values": [
+      "constant_phase_element",
+      "constant_phase_element_exponent",
+      "constant_phase_element_impedance",
+      "constant_phase_element_magnitude",
+      "constant_phase_element_n",
+      "constant_phase_element_t",
+      "constant_phase_element_y0"
+    ]
+  },
+  "801": {
+    "size": 2,
+    "values": [
+      "continuous_operation_time",
+      "continuous_operation_voltage"
+    ]
+  },
+  "807": {
+    "size": 2,
+    "values": [
+      "contribution_to_capacitance",
+      "contribution_to_specific_capacitance"
+    ]
+  },
+  "811": {
+    "size": 16,
+    "values": [
+      "conversion_efficiency",
+      "conversion_storage_efficiency",
+      "energy_conversion_efficiency",
+      "energy_conversion_storage_efficiency",
+      "energy_delivery_efficiency",
+      "energy_recovery_efficiency",
+      "peak_power_conversion_efficiency",
+      "photo_conversion_efficiency",
+      "photoelectric_conversion_efficiency",
+      "photothermal_conversion_efficiency",
+      "power_conversion_efficiency",
+      "solar_conversion_efficiency",
+      "solar_thermal_conversion_efficiency",
+      "solar_to_electrical_conversion_efficiency",
+      "thermal_conversion_efficiency",
+      "thermoelectric_conversion_efficiency"
+    ]
+  },
+  "813": {
+    "size": 3,
+    "values": [
+      "conversion_rate",
+      "conversion_ratio",
+      "conversion_time"
+    ]
+  },
+  "814": {
+    "size": 2,
+    "values": [
+      "conversion_temperature",
+      "half_conversion_temperature"
+    ]
+  },
+  "817": {
+    "size": 7,
+    "values": [
+      "cooling_capacity",
+      "cycling_capacity",
+      "holding_capacity",
+      "load_bearing_capacity",
+      "load_capacity",
+      "loading_capacity",
+      "plating_capacity"
+    ]
+  },
+  "823": {
+    "size": 2,
+    "values": [
+      "core_radius",
+      "pore_radius"
+    ]
+  },
+  "824": {
+    "size": 3,
+    "values": [
+      "correlation_coefficient",
+      "oxygen_sensor_correlation_coefficient",
+      "sensor_correlation_coefficient"
+    ]
+  },
+  "825": {
+    "size": 3,
+    "values": [
+      "correlation_constant",
+      "relaxation_constant",
+      "relaxation_time_constant"
+    ]
+  },
+  "826": {
+    "size": 2,
+    "values": [
+      "corrosion_current",
+      "corrosion_current_area"
+    ]
+  },
+  "837": {
+    "size": 3,
+    "values": [
+      "cost_per_kg",
+      "cost_per_kwh",
+      "cost_per_wh"
+    ]
+  },
+  "839": {
+    "size": 2,
+    "values": [
+      "coulombic_efficiency",
+      "coulombic_efficiency_loss"
+    ]
+  },
+  "858": {
+    "size": 5,
+    "values": [
+      "critical_temperature",
+      "final_temperature",
+      "initial_temperature",
+      "nominal_temperature",
+      "terminal_temperature"
+    ]
+  },
+  "869": {
+    "size": 2,
+    "values": [
+      "crystal_size",
+      "crystallite_size"
+    ]
+  },
+  "878": {
+    "size": 2,
+    "values": [
+      "crystallization_peak_temperature",
+      "crystallization_temperature"
+    ]
+  },
+  "879": {
+    "size": 2,
+    "values": [
+      "cumulative_pore_volume",
+      "cumulative_volume"
+    ]
+  },
+  "882": {
+    "size": 2,
+    "values": [
+      "current_at_maximum_power",
+      "current_at_maximum_power_point"
+    ]
+  },
+  "883": {
+    "size": 5,
+    "values": [
+      "current_change",
+      "current_range",
+      "current_rating",
+      "current_ratio",
+      "current_variation"
+    ]
+  },
+  "892": {
+    "size": 3,
+    "values": [
+      "current_density_range",
+      "current_density_tolerance",
+      "maximum_current_density_tolerance"
+    ]
+  },
+  "896": {
+    "size": 2,
+    "values": [
+      "current_durability",
+      "current_stability"
+    ]
+  },
+  "906": {
+    "size": 2,
+    "values": [
+      "current_response",
+      "peak_current_response"
+    ]
+  },
+  "915": {
+    "size": 2,
+    "values": [
+      "cutoff_charge_voltage",
+      "cutoff_discharge_voltage"
+    ]
+  },
+  "916": {
+    "size": 2,
+    "values": [
+      "cutoff_frequency",
+      "high_cutoff_frequency"
+    ]
+  },
+  "933": {
+    "size": 2,
+    "values": [
+      "cycle_degradation",
+      "dye_degradation"
+    ]
+  },
+  "941": {
+    "size": 2,
+    "values": [
+      "cycle_performance",
+      "led_performance"
+    ]
+  },
+  "943": {
+    "size": 5,
+    "values": [
+      "cycle_retention",
+      "cycle_retention_loss",
+      "cycle_retention_loss_rate",
+      "cyclic_retention",
+      "cycling_retention"
+    ]
+  },
+  "944": {
+    "size": 2,
+    "values": [
+      "cycle_stability",
+      "cycling_stability"
+    ]
+  },
+  "952": {
+    "size": 7,
+    "values": [
+      "d33_piezoelectric_coefficient",
+      "piezoelectric_charge_coefficient",
+      "piezoelectric_coefficient",
+      "piezoelectric_voltage_coefficient",
+      "pyroelectric_coefficient",
+      "surface_piezoelectric_coefficient",
+      "thermoelectric_coefficient"
+    ]
+  },
+  "953": {
+    "size": 2,
+    "values": [
+      "d_band_content",
+      "g_band_content"
+    ]
+  },
+  "954": {
+    "size": 2,
+    "values": [
+      "d_band_position",
+      "g_band_position"
+    ]
+  },
+  "955": {
+    "size": 2,
+    "values": [
+      "d_spacing",
+      "spacing"
+    ]
+  },
+  "958": {
+    "size": 3,
+    "values": [
+      "damping_ratio",
+      "doping_fraction",
+      "doping_ratio"
+    ]
+  },
+  "960": {
+    "size": 2,
+    "values": [
+      "dc_bus_voltage_overshoot",
+      "dc_bus_voltage_undershoot"
+    ]
+  },
+  "961": {
+    "size": 2,
+    "values": [
+      "dc_bus_voltage_reference",
+      "uc_voltage_reference"
+    ]
+  },
+  "965": {
+    "size": 6,
+    "values": [
+      "dc_internal_resistance",
+      "dc_line_resistance",
+      "interfacial_resistance",
+      "interlayer_resistance",
+      "internal_resistance",
+      "thermal_resistance"
+    ]
+  },
+  "970": {
+    "size": 3,
+    "values": [
+      "dcp_contribution",
+      "edlc_contribution",
+      "scp_contribution"
+    ]
+  },
+  "978": {
+    "size": 4,
+    "values": [
+      "decomposition_onset_temperature",
+      "decomposition_temperature",
+      "desorption_temperature",
+      "thermal_decomposition_temperature"
+    ]
+  },
+  "991": {
+    "size": 2,
+    "values": [
+      "degradation_efficiency",
+      "photodegradation_efficiency"
+    ]
+  },
+  "992": {
+    "size": 2,
+    "values": [
+      "degradation_percentage",
+      "photodegradation_percentage"
+    ]
+  },
+  "993": {
+    "size": 3,
+    "values": [
+      "degradation_rate",
+      "degradation_time",
+      "photodegradation_rate"
+    ]
+  },
+  "1000": {
+    "size": 2,
+    "values": [
+      "deintercalated_charge_density",
+      "intercalated_charge_density"
+    ]
+  },
+  "1001": {
+    "size": 3,
+    "values": [
+      "deintercalation_capacity",
+      "intercalation_capacitance",
+      "intercalation_capacity"
+    ]
+  },
+  "1003": {
+    "size": 2,
+    "values": [
+      "delamination_rate",
+      "desalination_rate"
+    ]
+  },
+  "1005": {
+    "size": 3,
+    "values": [
+      "deliverable_capacitance",
+      "deliverable_capacity",
+      "delivered_capacity"
+    ]
+  },
+  "1006": {
+    "size": 2,
+    "values": [
+      "delta_c",
+      "delta_t"
+    ]
+  },
+  "1032": {
+    "size": 2,
+    "values": [
+      "desolvation_activation_energy",
+      "zn2_desolvation_activation_energy"
+    ]
+  },
+  "1040": {
+    "size": 5,
+    "values": [
+      "deviation_coefficient",
+      "extinction_coefficient",
+      "friction_coefficient",
+      "partition_coefficient",
+      "variation_coefficient"
+    ]
+  },
+  "1050": {
+    "size": 4,
+    "values": [
+      "dielectric_constant",
+      "piezoelectric_constant",
+      "real_dielectric_constant",
+      "surface_dielectric_constant"
+    ]
+  },
+  "1057": {
+    "size": 2,
+    "values": [
+      "dielectric_permittivity",
+      "dielectric_permittivity_real"
+    ]
+  },
+  "1065": {
+    "size": 4,
+    "values": [
+      "diffuse_capacitance",
+      "diffusion_capacitance",
+      "diffusion_capacity",
+      "inner_diffusion_capacitance"
+    ]
+  },
+  "1066": {
+    "size": 3,
+    "values": [
+      "diffuse_resistance",
+      "diffusion_resistance",
+      "ion_diffusion_resistance"
+    ]
+  },
+  "1072": {
+    "size": 6,
+    "values": [
+      "diffusion_coefficient",
+      "diffusion_coefficient_factor",
+      "interdiffusion_coefficient",
+      "self_diffusion_coefficient",
+      "sodium_diffusion_coefficient",
+      "sodium_ion_diffusion_coefficient"
+    ]
+  },
+  "1073": {
+    "size": 2,
+    "values": [
+      "diffusion_constant",
+      "diffusion_time_constant"
+    ]
+  },
+  "1074": {
+    "size": 5,
+    "values": [
+      "diffusion_contribution",
+      "diffusion_contribution_ratio",
+      "diffusive_contribution",
+      "ion_diffusion_contribution",
+      "non_diffusion_contribution"
+    ]
+  },
+  "1076": {
+    "size": 4,
+    "values": [
+      "diffusion_controlled_activity",
+      "diffusion_controlled_capacitance",
+      "diffusion_controlled_capacity",
+      "diffusion_controlled_fraction"
+    ]
+  },
+  "1077": {
+    "size": 2,
+    "values": [
+      "diffusion_controlled_charge",
+      "diffusion_controlled_percentage"
+    ]
+  },
+  "1085": {
+    "size": 2,
+    "values": [
+      "diffusion_lifetime",
+      "diffusion_time"
+    ]
+  },
+  "1104": {
+    "size": 2,
+    "values": [
+      "direct_band_gap",
+      "indirect_band_gap"
+    ]
+  },
+  "1105": {
+    "size": 2,
+    "values": [
+      "direct_optical_band_gap",
+      "indirect_optical_band_gap"
+    ]
+  },
+  "1121": {
+    "size": 2,
+    "values": [
+      "dispersion_coefficient",
+      "dispersion_efficiency"
+    ]
+  },
+  "1127": {
+    "size": 2,
+    "values": [
+      "dissipation_factor",
+      "dissipation_ratio"
+    ]
+  },
+  "1142": {
+    "size": 2,
+    "values": [
+      "doping_charge",
+      "undoping_charge"
+    ]
+  },
+  "1145": {
+    "size": 2,
+    "values": [
+      "double_layer_area",
+      "double_layer_charge"
+    ]
+  },
+  "1146": {
+    "size": 5,
+    "values": [
+      "double_layer_capacitance",
+      "double_layer_capacitance_change",
+      "double_layer_capacitance_per_area",
+      "double_layer_capacitance_percentage",
+      "double_layer_capacitance_ratio"
+    ]
+  },
+  "1155": {
+    "size": 6,
+    "values": [
+      "drift_time_constant",
+      "rc_time_constant",
+      "time_constant",
+      "warburg_constant",
+      "warburg_time_constant",
+      "water_time_constant"
+    ]
+  },
+  "1161": {
+    "size": 2,
+    "values": [
+      "dubinin_radushkevich_surface_area_co2",
+      "dubinin_radushkevich_surface_area_n2"
+    ]
+  },
+  "1167": {
+    "size": 4,
+    "values": [
+      "durability_retention",
+      "flexibility_retention",
+      "foldability_retention",
+      "stability_retention"
+    ]
+  },
+  "1179": {
+    "size": 2,
+    "values": [
+      "dynamic_pressure_detection_limit",
+      "static_pressure_detection_limit"
+    ]
+  },
+  "1180": {
+    "size": 5,
+    "values": [
+      "dynamic_pressure_sensitivity",
+      "pressure_sensing_sensitivity",
+      "pressure_sensitivity",
+      "pressure_sensor_sensitivity",
+      "static_pressure_sensitivity"
+    ]
+  },
+  "1189": {
+    "size": 2,
+    "values": [
+      "edlc_fraction",
+      "gel_fraction"
+    ]
+  },
+  "1190": {
+    "size": 2,
+    "values": [
+      "effective_absorption_band",
+      "effective_absorption_bandwidth"
+    ]
+  },
+  "1193": {
+    "size": 5,
+    "values": [
+      "effective_areal_capacitance",
+      "effective_capacitance",
+      "effective_capacity",
+      "effective_heat_capacity",
+      "effective_heat_capacity_change"
+    ]
+  },
+  "1198": {
+    "size": 2,
+    "values": [
+      "effective_conductivity",
+      "effective_ionic_conductivity"
+    ]
+  },
+  "1201": {
+    "size": 3,
+    "values": [
+      "effective_density",
+      "effective_energy_density",
+      "effective_power_density"
+    ]
+  },
+  "1202": {
+    "size": 2,
+    "values": [
+      "effective_dielectric_permittivity",
+      "relative_dielectric_permittivity"
+    ]
+  },
+  "1207": {
+    "size": 2,
+    "values": [
+      "effective_ion_size",
+      "effective_pore_size"
+    ]
+  },
+  "1219": {
+    "size": 3,
+    "values": [
+      "efficiency_ratio",
+      "efficiency_variation",
+      "exergy_efficiency_variation"
+    ]
+  },
+  "1225": {
+    "size": 2,
+    "values": [
+      "elastic_recovery",
+      "elastic_recovery_rate"
+    ]
+  },
+  "1226": {
+    "size": 2,
+    "values": [
+      "elastic_strain",
+      "lattice_strain"
+    ]
+  },
+  "1230": {
+    "size": 5,
+    "values": [
+      "electric_double_layer_capacitance",
+      "electric_double_layer_capacity",
+      "electrochemical_double_layer_capacitance",
+      "specific_double_layer_capacitance",
+      "specific_double_layer_capacity"
+    ]
+  },
+  "1233": {
+    "size": 5,
+    "values": [
+      "electrical_conductivity",
+      "electrolyte_conductivity",
+      "electronic_conductivity",
+      "sheet_conductivity",
+      "skeletal_conductivity"
+    ]
+  },
+  "1234": {
+    "size": 2,
+    "values": [
+      "electrical_conductivity_increase",
+      "thermal_conductivity_increase"
+    ]
+  },
+  "1236": {
+    "size": 4,
+    "values": [
+      "electrical_efficiency",
+      "electrochemical_efficiency",
+      "electrochemical_storage_efficiency",
+      "photoelectrochemical_efficiency"
+    ]
+  },
+  "1238": {
+    "size": 2,
+    "values": [
+      "electrical_healing_efficiency",
+      "mechanical_healing_efficiency"
+    ]
+  },
+  "1239": {
+    "size": 8,
+    "values": [
+      "electrical_resistance",
+      "electrochemical_resistance",
+      "electrode_resistance",
+      "electrolyte_resistance",
+      "electrolyte_resistance_ratio",
+      "electrolyte_resistance_reduction",
+      "electronic_resistance",
+      "pore_electrolyte_resistance"
+    ]
+  },
+  "1241": {
+    "size": 5,
+    "values": [
+      "electrical_resistivity",
+      "electrode_resistivity",
+      "electrolyte_permittivity",
+      "electrolyte_resistivity",
+      "electronic_resistivity"
+    ]
+  },
+  "1242": {
+    "size": 2,
+    "values": [
+      "electrical_response_range",
+      "electrical_response_time"
+    ]
+  },
+  "1255": {
+    "size": 3,
+    "values": [
+      "electrocatalytic_stability",
+      "electrolyte_stability",
+      "electrolyte_stability_window"
+    ]
+  },
+  "1257": {
+    "size": 6,
+    "values": [
+      "electrochemical_active_surface_area",
+      "electrochemical_surface_area",
+      "electrochemically_active_surface_area",
+      "electrochemically_active_surface_area_change",
+      "electrochemically_active_surface_area_increase",
+      "relative_electrochemically_active_surface_area"
+    ]
+  },
+  "1267": {
+    "size": 2,
+    "values": [
+      "electrochemical_plateau_capacity",
+      "electrochemical_slope_capacity"
+    ]
+  },
+  "1272": {
+    "size": 6,
+    "values": [
+      "electrochemical_stability",
+      "electrochemical_stability_potential_window",
+      "electrochemical_stability_window",
+      "electromechanical_stability",
+      "mechanical_stability",
+      "mechanical_stretchability"
+    ]
+  },
+  "1290": {
+    "size": 6,
+    "values": [
+      "electrode_composition",
+      "electrolyte_composition",
+      "electrolyte_condition",
+      "electrolyte_contact",
+      "electrolyte_contact_angle",
+      "electrolyte_content"
+    ]
+  },
+  "1291": {
+    "size": 2,
+    "values": [
+      "electrode_density",
+      "electron_density"
+    ]
+  },
+  "1297": {
+    "size": 2,
+    "values": [
+      "electrode_loading_density",
+      "electrode_packing_density"
+    ]
+  },
+  "1304": {
+    "size": 2,
+    "values": [
+      "electrode_specific_capacitance",
+      "electrode_specific_capacity"
+    ]
+  },
+  "1305": {
+    "size": 2,
+    "values": [
+      "electrode_thickness",
+      "electrolyte_thickness"
+    ]
+  },
+  "1306": {
+    "size": 2,
+    "values": [
+      "electrode_voltage",
+      "electrolyzer_voltage"
+    ]
+  },
+  "1312": {
+    "size": 2,
+    "values": [
+      "electrolyte_diffusion_resistance",
+      "electrolyte_solution_resistance"
+    ]
+  },
+  "1315": {
+    "size": 2,
+    "values": [
+      "electrolyte_phase_volume_fraction",
+      "electrolyte_volume_fraction"
+    ]
+  },
+  "1319": {
+    "size": 2,
+    "values": [
+      "electrolyte_storage_capacity",
+      "electron_storage_capacity"
+    ]
+  },
+  "1322": {
+    "size": 2,
+    "values": [
+      "electrolyte_uptake",
+      "electrolyte_uptake_rate"
+    ]
+  },
+  "1326": {
+    "size": 4,
+    "values": [
+      "electromagnetic_shielding_effectiveness",
+      "electromagnetic_shielding_effectiveness_absorption",
+      "electromagnetic_shielding_effectiveness_reflection",
+      "electromagnetic_shielding_effectiveness_total"
+    ]
+  },
+  "1330": {
+    "size": 2,
+    "values": [
+      "electron_accepting_capacity",
+      "electron_donating_capacity"
+    ]
+  },
+  "1341": {
+    "size": 3,
+    "values": [
+      "electron_transfer_number",
+      "electron_transfer_time",
+      "electron_transport_time"
+    ]
+  },
+  "1348": {
+    "size": 3,
+    "values": [
+      "elemental_composition",
+      "surface_elemental_composition",
+      "xps_elemental_composition"
+    ]
+  },
+  "1351": {
+    "size": 2,
+    "values": [
+      "elemental_content",
+      "xps_elemental_content"
+    ]
+  },
+  "1356": {
+    "size": 2,
+    "values": [
+      "elongation_rate",
+      "elongation_ratio"
+    ]
+  },
+  "1362": {
+    "size": 2,
+    "values": [
+      "emi_shielding_efficiency_absorption",
+      "emi_shielding_efficiency_reflection"
+    ]
+  },
+  "1369": {
+    "size": 2,
+    "values": [
+      "encapsulation_rate",
+      "encapsulation_ratio"
+    ]
+  },
+  "1370": {
+    "size": 2,
+    "values": [
+      "end_of_life_capacitance",
+      "end_of_life_capacity"
+    ]
+  },
+  "1372": {
+    "size": 12,
+    "values": [
+      "end_state_of_charge",
+      "state_of_charge",
+      "state_of_charge_change",
+      "state_of_charge_change_time",
+      "state_of_charge_charge_time",
+      "state_of_charge_drop",
+      "state_of_charge_increase",
+      "state_of_charge_limit",
+      "state_of_charge_limits",
+      "state_of_charge_range",
+      "state_of_charge_rmse",
+      "state_of_charge_window"
+    ]
+  },
+  "1383": {
+    "size": 2,
+    "values": [
+      "energy_captured_per_cycle",
+      "energy_stored_per_cycle"
+    ]
+  },
+  "1384": {
+    "size": 3,
+    "values": [
+      "energy_change",
+      "energy_range",
+      "energy_rating"
+    ]
+  },
+  "1387": {
+    "size": 2,
+    "values": [
+      "energy_consumption",
+      "energy_consumption_cost"
+    ]
+  },
+  "1389": {
+    "size": 2,
+    "values": [
+      "energy_consumption_reduction",
+      "fuel_consumption_reduction"
+    ]
+  },
+  "1396": {
+    "size": 2,
+    "values": [
+      "energy_delivered",
+      "peak_energy_delivered"
+    ]
+  },
+  "1402": {
+    "size": 2,
+    "values": [
+      "energy_dissipation",
+      "energy_dissipation_ratio"
+    ]
+  },
+  "1403": {
+    "size": 3,
+    "values": [
+      "energy_efficiency",
+      "energy_efficiency_loss",
+      "exergy_efficiency"
+    ]
+  },
+  "1406": {
+    "size": 2,
+    "values": [
+      "energy_from_grid",
+      "energy_to_grid"
+    ]
+  },
+  "1407": {
+    "size": 2,
+    "values": [
+      "energy_gain",
+      "energy_gap"
+    ]
+  },
+  "1408": {
+    "size": 2,
+    "values": [
+      "energy_generated",
+      "energy_regenerated"
+    ]
+  },
+  "1423": {
+    "size": 2,
+    "values": [
+      "energy_recovery",
+      "energy_recovery_rate"
+    ]
+  },
+  "1425": {
+    "size": 5,
+    "values": [
+      "energy_regeneration_efficiency",
+      "regeneration_efficiency",
+      "regenerative_braking_efficiency",
+      "regenerative_efficiency",
+      "regenerative_energy_efficiency"
+    ]
+  },
+  "1428": {
+    "size": 3,
+    "values": [
+      "energy_retention",
+      "energy_retention_rate",
+      "energy_retention_time"
+    ]
+  },
+  "1443": {
+    "size": 3,
+    "values": [
+      "enhancement_factor",
+      "field_enhancement_factor",
+      "sers_enhancement_factor"
+    ]
+  },
+  "1446": {
+    "size": 2,
+    "values": [
+      "enthalpy_of_adsorption",
+      "entropy_of_adsorption"
+    ]
+  },
+  "1467": {
+    "size": 2,
+    "values": [
+      "equivalent_capacitance",
+      "equivalent_capacity"
+    ]
+  },
+  "1469": {
+    "size": 10,
+    "values": [
+      "equivalent_diffusion_resistance",
+      "equivalent_distributed_resistance",
+      "equivalent_distribution_resistance",
+      "equivalent_impedance",
+      "equivalent_resistance",
+      "equivalent_series_impedance",
+      "equivalent_series_inductance",
+      "equivalent_series_resistance",
+      "equivalent_series_resistance_increase",
+      "initial_equivalent_series_resistance"
+    ]
+  },
+  "1475": {
+    "size": 2,
+    "values": [
+      "equivalent_parallel_capacitance",
+      "equivalent_parallel_resistance"
+    ]
+  },
+  "1477": {
+    "size": 2,
+    "values": [
+      "equivalent_series_resistance_reduction",
+      "equivalent_series_resistance_variation"
+    ]
+  },
+  "1490": {
+    "size": 4,
+    "values": [
+      "evaporation_efficiency",
+      "extraction_efficiency",
+      "extrusion_efficiency",
+      "separation_efficiency"
+    ]
+  },
+  "1504": {
+    "size": 2,
+    "values": [
+      "exponential_factor",
+      "pre_exponential_factor"
+    ]
+  },
+  "1514": {
+    "size": 4,
+    "values": [
+      "external_surface_area",
+      "inner_surface_area",
+      "integrated_surface_area",
+      "internal_surface_area"
+    ]
+  },
+  "1519": {
+    "size": 3,
+    "values": [
+      "extracted_energy",
+      "generated_energy",
+      "rated_energy"
+    ]
+  },
+  "1522": {
+    "size": 2,
+    "values": [
+      "extraction_yield",
+      "reaction_yield"
+    ]
+  },
+  "1529": {
+    "size": 3,
+    "values": [
+      "factor",
+      "g_factor",
+      "q_factor"
+    ]
+  },
+  "1534": {
+    "size": 3,
+    "values": [
+      "fading_rate",
+      "loading_rate",
+      "loading_ratio"
+    ]
+  },
+  "1540": {
+    "size": 3,
+    "values": [
+      "faradaic_capacitance",
+      "faradaic_capacity",
+      "non_faradaic_capacitance"
+    ]
+  },
+  "1543": {
+    "size": 2,
+    "values": [
+      "faradaic_contribution",
+      "non_faradaic_contribution"
+    ]
+  },
+  "1564": {
+    "size": 2,
+    "values": [
+      "fiber_diameter",
+      "inner_diameter"
+    ]
+  },
+  "1565": {
+    "size": 2,
+    "values": [
+      "fiber_diameter_distribution",
+      "pore_diameter_distribution"
+    ]
+  },
+  "1586": {
+    "size": 2,
+    "values": [
+      "filtration_time",
+      "infiltration_time"
+    ]
+  },
+  "1590": {
+    "size": 2,
+    "values": [
+      "first_cycle_charge_capacity",
+      "first_cycle_discharge_capacity"
+    ]
+  },
+  "1592": {
+    "size": 3,
+    "values": [
+      "first_order_rate_constant",
+      "pseudo_first_order_rate_constant",
+      "pseudo_second_order_rate_constant"
+    ]
+  },
+  "1599": {
+    "size": 4,
+    "values": [
+      "flake_thickness",
+      "interlayer_thickness",
+      "layer_thickness",
+      "nanoflake_thickness"
+    ]
+  },
+  "1603": {
+    "size": 2,
+    "values": [
+      "flammability",
+      "non_flammability"
+    ]
+  },
+  "1611": {
+    "size": 2,
+    "values": [
+      "flex_retention",
+      "flexural_retention"
+    ]
+  },
+  "1614": {
+    "size": 3,
+    "values": [
+      "flexible_capacitance",
+      "flexible_capacity",
+      "flexible_capacity_decay"
+    ]
+  },
+  "1619": {
+    "size": 2,
+    "values": [
+      "float_retention",
+      "load_retention"
+    ]
+  },
+  "1620": {
+    "size": 2,
+    "values": [
+      "floating_stability",
+      "folding_stability"
+    ]
+  },
+  "1640": {
+    "size": 4,
+    "values": [
+      "force_density",
+      "pore_density",
+      "powder_density",
+      "power_density"
+    ]
+  },
+  "1645": {
+    "size": 2,
+    "values": [
+      "forward_backward_current_ratio",
+      "forward_to_backward_current_ratio"
+    ]
+  },
+  "1648": {
+    "size": 2,
+    "values": [
+      "fractal_dimension",
+      "mass_fractal_dimension"
+    ]
+  },
+  "1657": {
+    "size": 2,
+    "values": [
+      "fracture_strength",
+      "fracture_stretch"
+    ]
+  },
+  "1672": {
+    "size": 2,
+    "values": [
+      "frequency_exponent",
+      "low_frequency_exponent"
+    ]
+  },
+  "1676": {
+    "size": 2,
+    "values": [
+      "frequency_regulation_droop_coefficient",
+      "frequency_regulation_inertial_coefficient"
+    ]
+  },
+  "1685": {
+    "size": 2,
+    "values": [
+      "freundlich_isotherm_constant_k",
+      "freundlich_isotherm_constant_n"
+    ]
+  },
+  "1714": {
+    "size": 2,
+    "values": [
+      "galvanostatic_charge_discharge",
+      "galvanostatic_charge_discharge_profile"
+    ]
+  },
+  "1736": {
+    "size": 3,
+    "values": [
+      "gelation_time",
+      "relaxation_time",
+      "relaxation_time_t1"
+    ]
+  },
+  "1737": {
+    "size": 2,
+    "values": [
+      "generated_current",
+      "rated_current"
+    ]
+  },
+  "1739": {
+    "size": 4,
+    "values": [
+      "generated_voltage",
+      "photogenerated_voltage",
+      "rated_voltage",
+      "read_voltage"
+    ]
+  },
+  "1741": {
+    "size": 8,
+    "values": [
+      "geometric_capacitance",
+      "gravimetric_capacitance",
+      "gravimetric_capacity",
+      "voltammetric_capacitance",
+      "volume_capacitance",
+      "volume_capacity",
+      "volumetric_capacitance",
+      "volumetric_capacity"
+    ]
+  },
+  "1744": {
+    "size": 2,
+    "values": [
+      "geometric_surface_area",
+      "volumetric_surface_area"
+    ]
+  },
+  "1749": {
+    "size": 5,
+    "values": [
+      "glass_transition_temperature",
+      "phase_transition_temperature",
+      "transition_temperature",
+      "verwey_transition_temperature",
+      "vitreous_transition_temperature"
+    ]
+  },
+  "1756": {
+    "size": 2,
+    "values": [
+      "glucose_sensing_current_density",
+      "sensing_current_density"
+    ]
+  },
+  "1765": {
+    "size": 2,
+    "values": [
+      "grain_boundary_conductivity",
+      "grain_boundary_ionic_conductivity"
+    ]
+  },
+  "1773": {
+    "size": 2,
+    "values": [
+      "graphene_fraction_area",
+      "graphene_fraction_mass"
+    ]
+  },
+  "1778": {
+    "size": 2,
+    "values": [
+      "graphite_crystallite_size",
+      "graphitic_crystallite_size"
+    ]
+  },
+  "1791": {
+    "size": 2,
+    "values": [
+      "graphitization_index",
+      "graphitization_yield"
+    ]
+  },
+  "1793": {
+    "size": 7,
+    "values": [
+      "gravimetric_density",
+      "gravimetric_energy_density",
+      "gravimetric_power_density",
+      "volume_density",
+      "volumetric_density",
+      "volumetric_energy_density",
+      "volumetric_power_density"
+    ]
+  },
+  "1811": {
+    "size": 3,
+    "values": [
+      "half_wave_potential",
+      "half_wave_potential_shift",
+      "orr_half_wave_potential"
+    ]
+  },
+  "1814": {
+    "size": 2,
+    "values": [
+      "hall_coefficient",
+      "thermal_coefficient"
+    ]
+  },
+  "1818": {
+    "size": 2,
+    "values": [
+      "hardness_increase",
+      "microhardness_increase"
+    ]
+  },
+  "1830": {
+    "size": 3,
+    "values": [
+      "heat_generation",
+      "heat_generation_rate",
+      "joule_heat_generation_rate"
+    ]
+  },
+  "1831": {
+    "size": 2,
+    "values": [
+      "heat_of_adsorption",
+      "heat_of_sorption"
+    ]
+  },
+  "1835": {
+    "size": 2,
+    "values": [
+      "heat_release_rate",
+      "peak_heat_release_rate"
+    ]
+  },
+  "1842": {
+    "size": 3,
+    "values": [
+      "height_retention",
+      "high_rate_retention",
+      "weight_retention"
+    ]
+  },
+  "1847": {
+    "size": 3,
+    "values": [
+      "her_activity",
+      "oer_activity",
+      "orr_activity"
+    ]
+  },
+  "1850": {
+    "size": 2,
+    "values": [
+      "heteroatom_doping",
+      "heteroatom_loading"
+    ]
+  },
+  "1852": {
+    "size": 2,
+    "values": [
+      "heterogeneous_rate_constant",
+      "standard_heterogeneous_rate_constant"
+    ]
+  },
+  "1855": {
+    "size": 2,
+    "values": [
+      "high_frequency_impedance",
+      "low_frequency_impedance"
+    ]
+  },
+  "1856": {
+    "size": 3,
+    "values": [
+      "high_frequency_resistance",
+      "high_frequency_series_resistance",
+      "low_frequency_resistance"
+    ]
+  },
+  "1858": {
+    "size": 3,
+    "values": [
+      "high_power_density",
+      "high_power_energy_density",
+      "high_power_power_density"
+    ]
+  },
+  "1862": {
+    "size": 4,
+    "values": [
+      "history_parameter_a1",
+      "history_parameter_a2",
+      "history_parameter_a4",
+      "history_parameter_a5"
+    ]
+  },
+  "1863": {
+    "size": 2,
+    "values": [
+      "history_time_constant_tau1",
+      "history_time_constant_tau2"
+    ]
+  },
+  "1877": {
+    "size": 3,
+    "values": [
+      "humidity_response",
+      "humidity_response_range",
+      "humidity_response_time"
+    ]
+  },
+  "1889": {
+    "size": 3,
+    "values": [
+      "hydrogen_adsorption_current_density",
+      "hydrogen_evolution_current_density",
+      "oxygen_evolution_current_density"
+    ]
+  },
+  "1891": {
+    "size": 3,
+    "values": [
+      "hydrogen_consumption",
+      "hydrogen_consumption_cost",
+      "hydrogen_overconsumption"
+    ]
+  },
+  "1895": {
+    "size": 5,
+    "values": [
+      "hydrogen_desorption_capacity",
+      "hydrogen_evolution_activity",
+      "hydrogen_evolution_capacity",
+      "hydrogen_sorption_capacity",
+      "oxygen_evolution_activity"
+    ]
+  },
+  "1898": {
+    "size": 4,
+    "values": [
+      "hydrogen_evolution_index",
+      "hydrogen_evolution_rate",
+      "hydrogen_production",
+      "hydrogen_production_rate"
+    ]
+  },
+  "1899": {
+    "size": 2,
+    "values": [
+      "hydrogen_generation",
+      "hydrogen_generation_rate"
+    ]
+  },
+  "1906": {
+    "size": 2,
+    "values": [
+      "hydrogen_peroxide_yield",
+      "hydroperoxide_yield"
+    ]
+  },
+  "1918": {
+    "size": 2,
+    "values": [
+      "hydrogen_valve_constant",
+      "oxygen_valve_constant"
+    ]
+  },
+  "1921": {
+    "size": 2,
+    "values": [
+      "hydrophilic_porosity",
+      "hydrophobic_porosity"
+    ]
+  },
+  "1923": {
+    "size": 2,
+    "values": [
+      "hydrophilic_volumetric_porosity",
+      "hydrophobic_volumetric_porosity"
+    ]
+  },
+  "1925": {
+    "size": 3,
+    "values": [
+      "hydrothermal_temperature",
+      "photothermal_temperature",
+      "photothermal_temperature_rise"
+    ]
+  },
+  "1934": {
+    "size": 2,
+    "values": [
+      "i2d_ig_ratio",
+      "id_ig_ratio"
+    ]
+  },
+  "1938": {
+    "size": 3,
+    "values": [
+      "identification_error_mae",
+      "identification_error_max",
+      "identification_error_mse"
+    ]
+  },
+  "1941": {
+    "size": 2,
+    "values": [
+      "ig_i2d_ratio",
+      "ig_id_ratio"
+    ]
+  },
+  "1944": {
+    "size": 2,
+    "values": [
+      "illuminance",
+      "luminance"
+    ]
+  },
+  "1961": {
+    "size": 2,
+    "values": [
+      "impedance_magnitude",
+      "impedance_magnitude_error"
+    ]
+  },
+  "1970": {
+    "size": 2,
+    "values": [
+      "impurity",
+      "purity"
+    ]
+  },
+  "1980": {
+    "size": 2,
+    "values": [
+      "incident_photon_to_current_efficiency",
+      "photon_to_current_efficiency"
+    ]
+  },
+  "2006": {
+    "size": 2,
+    "values": [
+      "initial_potential",
+      "orr_initial_potential"
+    ]
+  },
+  "2009": {
+    "size": 2,
+    "values": [
+      "initial_state_of_charge",
+      "terminal_state_of_charge"
+    ]
+  },
+  "2012": {
+    "size": 3,
+    "values": [
+      "inner_capacity_percentage",
+      "insertion_capacity_percentage",
+      "outer_capacity_percentage"
+    ]
+  },
+  "2014": {
+    "size": 2,
+    "values": [
+      "inner_charge_percentage",
+      "outer_charge_percentage"
+    ]
+  },
+  "2020": {
+    "size": 2,
+    "values": [
+      "input_mechanical_power",
+      "output_mechanical_power"
+    ]
+  },
+  "2023": {
+    "size": 2,
+    "values": [
+      "input_voltage_range",
+      "output_voltage_range"
+    ]
+  },
+  "2038": {
+    "size": 2,
+    "values": [
+      "integral_absolute_error",
+      "integral_time_absolute_error"
+    ]
+  },
+  "2039": {
+    "size": 2,
+    "values": [
+      "integral_squared_error",
+      "integral_time_squared_error"
+    ]
+  },
+  "2040": {
+    "size": 2,
+    "values": [
+      "integrated_area",
+      "integrated_cv_area"
+    ]
+  },
+  "2045": {
+    "size": 2,
+    "values": [
+      "inter_shell_spacing",
+      "intersheet_spacing"
+    ]
+  },
+  "2048": {
+    "size": 2,
+    "values": [
+      "intercalation_capacitance_contribution",
+      "intercalation_pseudocapacitance_contribution"
+    ]
+  },
+  "2055": {
+    "size": 2,
+    "values": [
+      "interfacial_adhesion",
+      "interfacial_tension"
+    ]
+  },
+  "2057": {
+    "size": 3,
+    "values": [
+      "interfacial_charge_transfer_resistance",
+      "interfacial_electron_transfer_resistance",
+      "interfacial_transfer_resistance"
+    ]
+  },
+  "2059": {
+    "size": 3,
+    "values": [
+      "interfacial_impedance",
+      "internal_impedance",
+      "thermal_impedance"
+    ]
+  },
+  "2062": {
+    "size": 2,
+    "values": [
+      "interlamellar_distance",
+      "interplanar_distance"
+    ]
+  },
+  "2064": {
+    "size": 2,
+    "values": [
+      "interlayer_spacing",
+      "interplanar_spacing"
+    ]
+  },
+  "2069": {
+    "size": 2,
+    "values": [
+      "internal_charge_impedance",
+      "internal_discharge_impedance"
+    ]
+  },
+  "2070": {
+    "size": 4,
+    "values": [
+      "internal_diameter",
+      "internal_hole_diameter",
+      "mean_external_diameter",
+      "mean_internal_diameter"
+    ]
+  },
+  "2072": {
+    "size": 3,
+    "values": [
+      "internal_voltage",
+      "terminal_voltage",
+      "thermal_voltage"
+    ]
+  },
+  "2076": {
+    "size": 3,
+    "values": [
+      "intra_particle_resistance",
+      "parasitic_resistance",
+      "particle_resistance"
+    ]
+  },
+  "2077": {
+    "size": 4,
+    "values": [
+      "intraparticle_diffusion_constant",
+      "intraparticle_diffusion_constant_c",
+      "intraparticle_diffusion_constant_k",
+      "intraparticle_diffusion_rate_constant"
+    ]
+  },
+  "2081": {
+    "size": 2,
+    "values": [
+      "intrinsic_ohmic_resistance",
+      "intrinsic_resistance"
+    ]
+  },
+  "2093": {
+    "size": 2,
+    "values": [
+      "ion_diffusion_rate",
+      "oxygen_diffusion_rate"
+    ]
+  },
+  "2095": {
+    "size": 2,
+    "values": [
+      "ion_exchange_capacity",
+      "proton_exchange_capacity"
+    ]
+  },
+  "2100": {
+    "size": 5,
+    "values": [
+      "ion_response_time",
+      "oxidation_response_time",
+      "reduction_response_time",
+      "response_time",
+      "response_time_90"
+    ]
+  },
+  "2101": {
+    "size": 2,
+    "values": [
+      "ion_storage_capacity",
+      "storage_capacity"
+    ]
+  },
+  "2119": {
+    "size": 2,
+    "values": [
+      "ionic_seebeck_coefficient",
+      "seebeck_coefficient"
+    ]
+  },
+  "2127": {
+    "size": 3,
+    "values": [
+      "irreversible_capacity",
+      "irreversible_capacity_loss",
+      "reversible_capacity"
+    ]
+  },
+  "2128": {
+    "size": 2,
+    "values": [
+      "irreversible_expansion",
+      "reversible_expansion"
+    ]
+  },
+  "2129": {
+    "size": 4,
+    "values": [
+      "irreversible_heat",
+      "irreversible_heat_share",
+      "reversible_heat_rate",
+      "reversible_heat_share"
+    ]
+  },
+  "2131": {
+    "size": 2,
+    "values": [
+      "irreversible_heat_generation_rate",
+      "reversible_heat_generation_rate"
+    ]
+  },
+  "2132": {
+    "size": 2,
+    "values": [
+      "irreversible_height_change",
+      "reversible_height_change"
+    ]
+  },
+  "2134": {
+    "size": 3,
+    "values": [
+      "irreversible_redox_capacitance",
+      "reversible_areal_capacitance",
+      "reversible_differential_capacitance"
+    ]
+  },
+  "2140": {
+    "size": 2,
+    "values": [
+      "joule_efficiency",
+      "module_efficiency"
+    ]
+  },
+  "2143": {
+    "size": 9,
+    "values": [
+      "junction_potential",
+      "orr_reduction_potential",
+      "oxygen_reduction_onset_potential",
+      "oxygen_reduction_potential",
+      "redox_peak_potential",
+      "redox_potential",
+      "reduction_onset_potential",
+      "reduction_peak_potential",
+      "reduction_potential"
+    ]
+  },
+  "2144": {
+    "size": 2,
+    "values": [
+      "k_squared",
+      "r_squared"
+    ]
+  },
+  "2147": {
+    "size": 2,
+    "values": [
+      "kinetic_constant",
+      "kinetic_rate_constant"
+    ]
+  },
+  "2164": {
+    "size": 2,
+    "values": [
+      "langmuir_isotherm_constant_a",
+      "langmuir_isotherm_constant_b"
+    ]
+  },
+  "2169": {
+    "size": 2,
+    "values": [
+      "lap_shear_strength",
+      "shear_strength"
+    ]
+  },
+  "2187": {
+    "size": 2,
+    "values": [
+      "lattice_parameter",
+      "lattice_parameter_a"
+    ]
+  },
+  "2197": {
+    "size": 4,
+    "values": [
+      "leakage_current_reduction",
+      "peak_current_area",
+      "peak_current_ratio",
+      "peak_current_reduction"
+    ]
+  },
+  "2201": {
+    "size": 2,
+    "values": [
+      "led_illumination",
+      "led_illumination_time"
+    ]
+  },
+  "2211": {
+    "size": 4,
+    "values": [
+      "lic_capacity",
+      "zab_capacity",
+      "zic_capacity",
+      "ziob_capacity"
+    ]
+  },
+  "2224": {
+    "size": 2,
+    "values": [
+      "lifetime_standard_deviation",
+      "relative_standard_deviation"
+    ]
+  },
+  "2231": {
+    "size": 2,
+    "values": [
+      "light_loading",
+      "weight_loading"
+    ]
+  },
+  "2239": {
+    "size": 2,
+    "values": [
+      "limit_current",
+      "limiting_current"
+    ]
+  },
+  "2243": {
+    "size": 2,
+    "values": [
+      "limiting_current_density",
+      "orr_limiting_current_density"
+    ]
+  },
+  "2248": {
+    "size": 2,
+    "values": [
+      "linear_coefficient",
+      "linearity_coefficient"
+    ]
+  },
+  "2252": {
+    "size": 3,
+    "values": [
+      "linear_fit_r2",
+      "linearity",
+      "linearity_r2"
+    ]
+  },
+  "2280": {
+    "size": 2,
+    "values": [
+      "load_current",
+      "no_load_current"
+    ]
+  },
+  "2284": {
+    "size": 2,
+    "values": [
+      "load_voltage",
+      "no_load_voltage"
+    ]
+  },
+  "2306": {
+    "size": 3,
+    "values": [
+      "low_temperature_capacitance",
+      "low_temperature_capacity",
+      "temperature_capacitance"
+    ]
+  },
+  "2307": {
+    "size": 2,
+    "values": [
+      "lspr_peak_wavelength",
+      "spr_peak_wavelength"
+    ]
+  },
+  "2311": {
+    "size": 3,
+    "values": [
+      "lysing_potential",
+      "swing_potential",
+      "working_potential"
+    ]
+  },
+  "2313": {
+    "size": 49,
+    "values": [
+      "macro_to_meso_ratio",
+      "macropore_fraction",
+      "macropore_ratio",
+      "macropore_surface_area",
+      "meso_macro_area",
+      "meso_macro_fraction",
+      "meso_macro_pore_area",
+      "meso_macro_pore_fraction",
+      "meso_macro_surface_area",
+      "meso_macropore_ratio",
+      "meso_macropore_surface_area",
+      "meso_to_micro_volume_ratio",
+      "mesopore_area_fraction",
+      "mesopore_fraction",
+      "mesopore_micropore_ratio",
+      "mesopore_ratio",
+      "mesopore_surface_area",
+      "mesopore_surface_area_fraction",
+      "mesopore_surface_area_ratio",
+      "mesopore_surface_fraction",
+      "mesopore_to_micropore_ratio",
+      "mesopore_to_micropore_volume_ratio",
+      "mesopore_to_total_ratio",
+      "mesoporous_surface_area",
+      "micro_meso_ratio",
+      "micro_mesopore_ratio",
+      "micro_to_meso_macro_volume_ratio",
+      "micro_to_meso_ratio",
+      "micro_to_meso_surface_area_ratio",
+      "micro_to_meso_volume_ratio",
+      "micro_to_mesopore_ratio",
+      "micropore_area_fraction",
+      "micropore_area_ratio",
+      "micropore_fraction",
+      "micropore_mesopore_ratio",
+      "micropore_ratio",
+      "micropore_surface_area",
+      "micropore_surface_area_contribution",
+      "micropore_surface_area_fraction",
+      "micropore_surface_area_ratio",
+      "micropore_to_meso_ratio",
+      "micropore_to_mesopore_ratio",
+      "micropore_to_mesopore_volume_ratio",
+      "micropore_to_total_ratio",
+      "microporous_surface_area",
+      "microporous_surface_area_ratio",
+      "nonmicro_to_micro_volume_ratio",
+      "pore_area_fraction",
+      "pore_fraction"
+    ]
+  },
+  "2314": {
+    "size": 2,
+    "values": [
+      "macropore_area",
+      "micropore_area"
+    ]
+  },
+  "2315": {
+    "size": 2,
+    "values": [
+      "macropore_conductivity",
+      "micropore_conductivity"
+    ]
+  },
+  "2317": {
+    "size": 2,
+    "values": [
+      "macropore_size",
+      "micropore_size"
+    ]
+  },
+  "2318": {
+    "size": 4,
+    "values": [
+      "macropore_volume",
+      "micropore_volume",
+      "non_micropore_volume",
+      "ultramicropore_volume"
+    ]
+  },
+  "2342": {
+    "size": 2,
+    "values": [
+      "manganese_content",
+      "manganese_oxide_content"
+    ]
+  },
+  "2348": {
+    "size": 2,
+    "values": [
+      "manganese_leaching",
+      "manganese_loading"
+    ]
+  },
+  "2354": {
+    "size": 2,
+    "values": [
+      "mass_change",
+      "mass_range"
+    ]
+  },
+  "2358": {
+    "size": 2,
+    "values": [
+      "mass_fraction",
+      "mass_ratio"
+    ]
+  },
+  "2362": {
+    "size": 4,
+    "values": [
+      "mass_loading_range",
+      "mass_loading_rate",
+      "mass_loading_ratio",
+      "mass_loading_retention"
+    ]
+  },
+  "2372": {
+    "size": 2,
+    "values": [
+      "mass_retention",
+      "wash_retention"
+    ]
+  },
+  "2379": {
+    "size": 3,
+    "values": [
+      "max_continuous_charge_rate",
+      "max_continuous_discharge_amperage",
+      "max_continuous_discharge_rate"
+    ]
+  },
+  "2384": {
+    "size": 2,
+    "values": [
+      "maximum_allowable_voltage",
+      "minimum_allowable_voltage"
+    ]
+  },
+  "2390": {
+    "size": 5,
+    "values": [
+      "maximum_capacitance",
+      "maximum_capacity",
+      "maximum_pseudocapacitance",
+      "minimum_capacitance",
+      "minimum_capacity"
+    ]
+  },
+  "2392": {
+    "size": 4,
+    "values": [
+      "maximum_cell_temperature",
+      "maximum_surface_temperature",
+      "maximum_temperature",
+      "minimum_temperature"
+    ]
+  },
+  "2395": {
+    "size": 2,
+    "values": [
+      "maximum_charging_power",
+      "maximum_charging_pressure"
+    ]
+  },
+  "2401": {
+    "size": 2,
+    "values": [
+      "maximum_deflection_range",
+      "minimum_deflection_range"
+    ]
+  },
+  "2402": {
+    "size": 2,
+    "values": [
+      "maximum_depth_of_discharge",
+      "minimum_depth_of_discharge"
+    ]
+  },
+  "2403": {
+    "size": 2,
+    "values": [
+      "maximum_dielectric_constant",
+      "minimum_dielectric_constant"
+    ]
+  },
+  "2409": {
+    "size": 2,
+    "values": [
+      "maximum_energy",
+      "minimum_energy"
+    ]
+  },
+  "2412": {
+    "size": 2,
+    "values": [
+      "maximum_entropy",
+      "minimum_entropy"
+    ]
+  },
+  "2415": {
+    "size": 2,
+    "values": [
+      "maximum_excitation_current",
+      "maximum_injection_current"
+    ]
+  },
+  "2424": {
+    "size": 2,
+    "values": [
+      "maximum_height",
+      "maximum_weight"
+    ]
+  },
+  "2428": {
+    "size": 8,
+    "values": [
+      "maximum_input_power",
+      "maximum_net_power",
+      "maximum_output_power",
+      "maximum_peak_power",
+      "maximum_power",
+      "maximum_pulse_power",
+      "minimum_input_power",
+      "minimum_output_power"
+    ]
+  },
+  "2437": {
+    "size": 3,
+    "values": [
+      "maximum_open_circuit_voltage",
+      "minimum_battery_open_circuit_voltage",
+      "minimum_open_circuit_voltage"
+    ]
+  },
+  "2439": {
+    "size": 7,
+    "values": [
+      "maximum_operating_point_voltage",
+      "maximum_operating_voltage",
+      "maximum_output_voltage",
+      "maximum_power_output_voltage",
+      "maximum_power_point_voltage",
+      "maximum_power_voltage",
+      "minimum_operating_voltage"
+    ]
+  },
+  "2446": {
+    "size": 2,
+    "values": [
+      "maximum_pore_size",
+      "minimum_pore_size"
+    ]
+  },
+  "2463": {
+    "size": 2,
+    "values": [
+      "maximum_state_of_charge",
+      "minimum_state_of_charge"
+    ]
+  },
+  "2464": {
+    "size": 2,
+    "values": [
+      "maximum_state_of_energy",
+      "minimum_state_of_energy"
+    ]
+  },
+  "2472": {
+    "size": 2,
+    "values": [
+      "maximum_temperature_decrease",
+      "maximum_temperature_difference"
+    ]
+  },
+  "2473": {
+    "size": 2,
+    "values": [
+      "maximum_tensile_strain",
+      "maximum_tensile_stress"
+    ]
+  },
+  "2482": {
+    "size": 2,
+    "values": [
+      "maximum_wind_speed",
+      "minimum_wind_speed"
+    ]
+  },
+  "2485": {
+    "size": 4,
+    "values": [
+      "mean_diameter",
+      "mean_pore_diameter",
+      "median_diameter",
+      "median_pore_diameter"
+    ]
+  },
+  "2490": {
+    "size": 5,
+    "values": [
+      "mean_mesopore_size",
+      "mean_micropore_size",
+      "mean_pore_size",
+      "median_pore_size",
+      "peak_pore_size"
+    ]
+  },
+  "2494": {
+    "size": 3,
+    "values": [
+      "mean_pore_width",
+      "median_pore_width",
+      "peak_pore_width"
+    ]
+  },
+  "2500": {
+    "size": 4,
+    "values": [
+      "mean_squared_error",
+      "root_mean_square_error",
+      "root_mean_square_power",
+      "root_mean_squared_error"
+    ]
+  },
+  "2513": {
+    "size": 2,
+    "values": [
+      "mechanical_flexibility_resistance",
+      "mechanical_flexibility_resistance_increase"
+    ]
+  },
+  "2520": {
+    "size": 2,
+    "values": [
+      "mechanical_strain",
+      "mechanical_strain_limit"
+    ]
+  },
+  "2527": {
+    "size": 2,
+    "values": [
+      "melting_enthalpy",
+      "pore_melting_enthalpy"
+    ]
+  },
+  "2539": {
+    "size": 2,
+    "values": [
+      "meso_to_micro_surface_area_ratio",
+      "mesopore_to_micropore_surface_area_ratio"
+    ]
+  },
+  "2541": {
+    "size": 2,
+    "values": [
+      "mesopore_content",
+      "mesoporous_content"
+    ]
+  },
+  "2542": {
+    "size": 8,
+    "values": [
+      "mesopore_contribution",
+      "micropore_contribution",
+      "micropore_distribution",
+      "particle_size_distribution",
+      "pore_area_distribution",
+      "pore_distribution",
+      "pore_distribution_width",
+      "pore_size_distribution"
+    ]
+  },
+  "2543": {
+    "size": 2,
+    "values": [
+      "mesopore_fraction_of_surface_area",
+      "micropore_fraction_of_surface_area"
+    ]
+  },
+  "2548": {
+    "size": 9,
+    "values": [
+      "mesopore_volume_fraction",
+      "mesopore_volume_ratio",
+      "micropore_volume_fraction",
+      "micropore_volume_ratio",
+      "mole_fraction",
+      "pore_volume_fraction",
+      "pore_volume_ratio",
+      "volume_fraction",
+      "volume_ratio"
+    ]
+  },
+  "2549": {
+    "size": 3,
+    "values": [
+      "mesopore_volume_percentage",
+      "mesoporous_percentage",
+      "micropore_volume_percentage"
+    ]
+  },
+  "2552": {
+    "size": 2,
+    "values": [
+      "mesoporosity_ratio",
+      "microporosity_ratio"
+    ]
+  },
+  "2558": {
+    "size": 2,
+    "values": [
+      "methane_adsorption_capacity",
+      "methylene_blue_adsorption_capacity"
+    ]
+  },
+  "2563": {
+    "size": 2,
+    "values": [
+      "methane_yield",
+      "methanol_yield"
+    ]
+  },
+  "2606": {
+    "size": 2,
+    "values": [
+      "minimum_load_resistance",
+      "optimum_load_resistance"
+    ]
+  },
+  "2618": {
+    "size": 2,
+    "values": [
+      "model_error",
+      "modeling_error"
+    ]
+  },
+  "2629": {
+    "size": 2,
+    "values": [
+      "module_count",
+      "submodule_count"
+    ]
+  },
+  "2660": {
+    "size": 3,
+    "values": [
+      "monolayer_capacity",
+      "monomer_capacitance",
+      "monomer_capacity"
+    ]
+  },
+  "2666": {
+    "size": 2,
+    "values": [
+      "monomer_voltage",
+      "motor_voltage"
+    ]
+  },
+  "2672": {
+    "size": 2,
+    "values": [
+      "motor_energy",
+      "motoring_energy"
+    ]
+  },
+  "2675": {
+    "size": 2,
+    "values": [
+      "motor_power",
+      "rotor_power"
+    ]
+  },
+  "2676": {
+    "size": 2,
+    "values": [
+      "mott_temperature",
+      "test_temperature"
+    ]
+  },
+  "2688": {
+    "size": 2,
+    "values": [
+      "n_exponent",
+      "s_exponent"
+    ]
+  },
+  "2689": {
+    "size": 3,
+    "values": [
+      "n_parameter",
+      "parameter",
+      "r0_parameter"
+    ]
+  },
+  "2697": {
+    "size": 2,
+    "values": [
+      "nanoparticle_diameter",
+      "particle_diameter"
+    ]
+  },
+  "2708": {
+    "size": 3,
+    "values": [
+      "nanotube_diameter",
+      "nanotube_inner_diameter",
+      "nanotube_outer_diameter"
+    ]
+  },
+  "2714": {
+    "size": 2,
+    "values": [
+      "negative_electrode_resistance",
+      "positive_electrode_resistance"
+    ]
+  },
+  "2715": {
+    "size": 2,
+    "values": [
+      "negative_electrode_thickness",
+      "positive_electrode_thickness"
+    ]
+  },
+  "2729": {
+    "size": 2,
+    "values": [
+      "nickel_cobalt_mass_ratio",
+      "nickel_cobalt_ratio"
+    ]
+  },
+  "2737": {
+    "size": 2,
+    "values": [
+      "nickel_oxidation_state_ratio",
+      "oxidation_state_ratio"
+    ]
+  },
+  "2739": {
+    "size": 4,
+    "values": [
+      "nickel_weight_percent",
+      "pani_weight_percent",
+      "ppy_weight_percent",
+      "weight_percent"
+    ]
+  },
+  "2742": {
+    "size": 3,
+    "values": [
+      "nir_transmittance",
+      "transmittance",
+      "uv_transmittance"
+    ]
+  },
+  "2749": {
+    "size": 2,
+    "values": [
+      "nitrogen_configuration",
+      "nitrogen_configuration_ratio"
+    ]
+  },
+  "2750": {
+    "size": 2,
+    "values": [
+      "nitrogen_content",
+      "xps_nitrogen_content"
+    ]
+  },
+  "2764": {
+    "size": 2,
+    "values": [
+      "nitrogen_weight_percent",
+      "oxygen_weight_percent"
+    ]
+  },
+  "2771": {
+    "size": 2,
+    "values": [
+      "nominal_air_supply_pressure",
+      "nominal_fuel_supply_pressure"
+    ]
+  },
+  "2783": {
+    "size": 2,
+    "values": [
+      "nominal_operating_current",
+      "nominal_operating_point_current"
+    ]
+  },
+  "2784": {
+    "size": 2,
+    "values": [
+      "nominal_operating_point_voltage",
+      "nominal_operating_voltage"
+    ]
+  },
+  "2797": {
+    "size": 2,
+    "values": [
+      "normalized_energy_recovery",
+      "normalized_usable_energy_recovery"
+    ]
+  },
+  "2803": {
+    "size": 2,
+    "values": [
+      "nucleation_overpotential",
+      "nucleation_potential"
+    ]
+  },
+  "2808": {
+    "size": 2,
+    "values": [
+      "number_of_blades",
+      "number_of_layers"
+    ]
+  },
+  "2809": {
+    "size": 4,
+    "values": [
+      "number_of_bottles",
+      "number_of_pole_pairs",
+      "number_of_poles",
+      "number_of_pores"
+    ]
+  },
+  "2810": {
+    "size": 3,
+    "values": [
+      "number_of_capacitors",
+      "number_of_series_capacitors",
+      "number_of_series_supercapacitors"
+    ]
+  },
+  "2825": {
+    "size": 2,
+    "values": [
+      "number_of_turn_on",
+      "number_of_turns"
+    ]
+  },
+  "2828": {
+    "size": 2,
+    "values": [
+      "o_i",
+      "o_ii"
+    ]
+  },
+  "2831": {
+    "size": 2,
+    "values": [
+      "oer_durability",
+      "orr_durability"
+    ]
+  },
+  "2836": {
+    "size": 3,
+    "values": [
+      "ohmic_resistance_change_rate",
+      "resistance_change",
+      "resistance_change_rate"
+    ]
+  },
+  "2838": {
+    "size": 2,
+    "values": [
+      "oil_absorption",
+      "solar_absorption"
+    ]
+  },
+  "2845": {
+    "size": 2,
+    "values": [
+      "onset_overpotential",
+      "onset_potential"
+    ]
+  },
+  "2849": {
+    "size": 7,
+    "values": [
+      "open_circuit_voltage",
+      "open_circuit_voltage_decay",
+      "open_circuit_voltage_decay_rate",
+      "open_circuit_voltage_drop",
+      "open_circuit_voltage_drop_time",
+      "open_circuit_voltage_peak_range",
+      "peak_open_circuit_voltage"
+    ]
+  },
+  "2855": {
+    "size": 2,
+    "values": [
+      "operating_cost",
+      "operation_cost"
+    ]
+  },
+  "2856": {
+    "size": 2,
+    "values": [
+      "operating_current",
+      "operating_current_range"
+    ]
+  },
+  "2860": {
+    "size": 3,
+    "values": [
+      "operating_power_range",
+      "operating_range",
+      "operating_soc_range"
+    ]
+  },
+  "2862": {
+    "size": 4,
+    "values": [
+      "operating_time",
+      "operation_time",
+      "penetration_time",
+      "preparation_time"
+    ]
+  },
+  "2864": {
+    "size": 2,
+    "values": [
+      "operation_and_maintenance_cost",
+      "operation_maintenance_cost"
+    ]
+  },
+  "2873": {
+    "size": 2,
+    "values": [
+      "optical_bandgap_direct",
+      "optical_bandgap_indirect"
+    ]
+  },
+  "2887": {
+    "size": 2,
+    "values": [
+      "optical_modulation_retention",
+      "optical_modulation_retention_rate"
+    ]
+  },
+  "2888": {
+    "size": 2,
+    "values": [
+      "optical_power",
+      "practical_power"
+    ]
+  },
+  "2890": {
+    "size": 2,
+    "values": [
+      "optical_susceptibility_first_order",
+      "optical_susceptibility_third_order"
+    ]
+  },
+  "2892": {
+    "size": 2,
+    "values": [
+      "optical_transparency",
+      "optical_transparency_change"
+    ]
+  },
+  "2897": {
+    "size": 2,
+    "values": [
+      "optimal_state_of_charge_range",
+      "virtual_state_of_charge_range"
+    ]
+  },
+  "2908": {
+    "size": 2,
+    "values": [
+      "orr_h2o2_yield",
+      "orr_ho2_yield"
+    ]
+  },
+  "2909": {
+    "size": 4,
+    "values": [
+      "orr_peak_potential",
+      "peak_potential",
+      "rest_potential",
+      "zeta_potential"
+    ]
+  },
+  "2910": {
+    "size": 2,
+    "values": [
+      "orr_peroxide_yield",
+      "peroxide_yield"
+    ]
+  },
+  "2917": {
+    "size": 2,
+    "values": [
+      "outer_surface_area",
+      "outer_surface_charge"
+    ]
+  },
+  "2925": {
+    "size": 3,
+    "values": [
+      "output_dc_voltage",
+      "output_rms_voltage",
+      "output_voltage"
+    ]
+  },
+  "2952": {
+    "size": 2,
+    "values": [
+      "overconsumption",
+      "power_consumption"
+    ]
+  },
+  "2953": {
+    "size": 3,
+    "values": [
+      "overpotential_change",
+      "potential_change",
+      "potential_range"
+    ]
+  },
+  "2954": {
+    "size": 4,
+    "values": [
+      "overpotential_difference",
+      "peak_potential_difference",
+      "peak_to_peak_potential_difference",
+      "potential_difference"
+    ]
+  },
+  "2957": {
+    "size": 2,
+    "values": [
+      "overpotential_reduction",
+      "peak_potential_reduction"
+    ]
+  },
+  "2965": {
+    "size": 3,
+    "values": [
+      "oxidation_onset_potential",
+      "oxidation_peak_potential",
+      "oxidation_potential"
+    ]
+  },
+  "2973": {
+    "size": 2,
+    "values": [
+      "oxide_thickness",
+      "void_thickness"
+    ]
+  },
+  "2979": {
+    "size": 2,
+    "values": [
+      "oxygen_consumption",
+      "oxygen_consumption_ratio"
+    ]
+  },
+  "2980": {
+    "size": 2,
+    "values": [
+      "oxygen_content",
+      "xps_oxygen_content"
+    ]
+  },
+  "3007": {
+    "size": 3,
+    "values": [
+      "pack_voltage",
+      "peak_voltage",
+      "stack_voltage"
+    ]
+  },
+  "3008": {
+    "size": 2,
+    "values": [
+      "pack_weight",
+      "stack_weight"
+    ]
+  },
+  "3009": {
+    "size": 2,
+    "values": [
+      "packing_density",
+      "stacking_density"
+    ]
+  },
+  "3021": {
+    "size": 2,
+    "values": [
+      "parallel_leakage_resistance",
+      "parallel_leakage_series_resistance"
+    ]
+  },
+  "3031": {
+    "size": 2,
+    "values": [
+      "peak_active_power",
+      "peak_reactive_power"
+    ]
+  },
+  "3040": {
+    "size": 2,
+    "values": [
+      "peak_efficiency",
+      "peak_net_efficiency"
+    ]
+  },
+  "3046": {
+    "size": 2,
+    "values": [
+      "peak_load_duration",
+      "peak_load_reduction"
+    ]
+  },
+  "3055": {
+    "size": 2,
+    "values": [
+      "peak_potential_separation",
+      "potential_separation"
+    ]
+  },
+  "3056": {
+    "size": 2,
+    "values": [
+      "peak_potential_shift",
+      "potential_shift"
+    ]
+  },
+  "3065": {
+    "size": 2,
+    "values": [
+      "peak_short_circuit_current",
+      "short_circuit_current"
+    ]
+  },
+  "3066": {
+    "size": 3,
+    "values": [
+      "peak_splitting_potential",
+      "water_splitting_overpotential",
+      "water_splitting_potential"
+    ]
+  },
+  "3075": {
+    "size": 2,
+    "values": [
+      "pedot_content",
+      "pedot_pss_content"
+    ]
+  },
+  "3092": {
+    "size": 2,
+    "values": [
+      "performance_retention",
+      "rate_performance_retention"
+    ]
+  },
+  "3110": {
+    "size": 2,
+    "values": [
+      "phase_composition",
+      "xps_composition"
+    ]
+  },
+  "3114": {
+    "size": 2,
+    "values": [
+      "phase_frequency",
+      "pulse_frequency"
+    ]
+  },
+  "3127": {
+    "size": 2,
+    "values": [
+      "photo_assisted_capacitance_gain",
+      "photo_induced_capacitance_gain"
+    ]
+  },
+  "3139": {
+    "size": 2,
+    "values": [
+      "photocatalytic_removal_rate",
+      "photocatalytic_removal_time"
+    ]
+  },
+  "3146": {
+    "size": 2,
+    "values": [
+      "photoluminescence_emission",
+      "photoluminescence_emission_peak"
+    ]
+  },
+  "3147": {
+    "size": 3,
+    "values": [
+      "photoluminescence_emission_wavelength",
+      "photoluminescence_excitation_wavelength",
+      "photoluminescence_peak_wavelength"
+    ]
+  },
+  "3158": {
+    "size": 5,
+    "values": [
+      "photovoltaic_efficiency",
+      "voltage_coefficient",
+      "voltage_efficiency",
+      "voltaic_efficiency",
+      "volumetric_efficiency"
+    ]
+  },
+  "3162": {
+    "size": 4,
+    "values": [
+      "phrr_reduction",
+      "thr_reduction",
+      "tsp_reduction",
+      "tsr_reduction"
+    ]
+  },
+  "3163": {
+    "size": 2,
+    "values": [
+      "pi_gain_constant",
+      "pi_gain_constants"
+    ]
+  },
+  "3166": {
+    "size": 2,
+    "values": [
+      "piezoelectric_voltage",
+      "piezoelectric_voltage_shift"
+    ]
+  },
+  "3187": {
+    "size": 2,
+    "values": [
+      "plating_stripping_reversibility",
+      "plating_stripping_stability"
+    ]
+  },
+  "3192": {
+    "size": 3,
+    "values": [
+      "point_of_zero_charge",
+      "point_of_zero_charge_ph",
+      "potential_of_zero_charge"
+    ]
+  },
+  "3197": {
+    "size": 2,
+    "values": [
+      "polarization_change",
+      "polymerization_charge"
+    ]
+  },
+  "3207": {
+    "size": 2,
+    "values": [
+      "polymerization_time",
+      "polymerization_yield"
+    ]
+  },
+  "3226": {
+    "size": 2,
+    "values": [
+      "pore_volume_adsorption",
+      "pore_volume_desorption"
+    ]
+  },
+  "3256": {
+    "size": 2,
+    "values": [
+      "power_absorption",
+      "water_absorption"
+    ]
+  },
+  "3259": {
+    "size": 2,
+    "values": [
+      "power_boost",
+      "power_cost"
+    ]
+  },
+  "3279": {
+    "size": 3,
+    "values": [
+      "power_range",
+      "power_rating",
+      "power_ratio"
+    ]
+  },
+  "3291": {
+    "size": 5,
+    "values": [
+      "prediction_mape",
+      "prediction_rmse",
+      "rul_prediction_mae",
+      "rul_prediction_rmse",
+      "soh_prediction_rmse"
+    ]
+  },
+  "3294": {
+    "size": 2,
+    "values": [
+      "pressure_detection_range",
+      "pressure_sensor_detection_range"
+    ]
+  },
+  "3295": {
+    "size": 2,
+    "values": [
+      "pressure_range",
+      "pressure_rating"
+    ]
+  },
+  "3299": {
+    "size": 2,
+    "values": [
+      "price_per_kw",
+      "price_per_kwh"
+    ]
+  },
+  "3305": {
+    "size": 2,
+    "values": [
+      "proton_conductivity",
+      "solution_conductivity"
+    ]
+  },
+  "3334": {
+    "size": 2,
+    "values": [
+      "pyridinic_pyrrolic_nitrogen",
+      "pyridinic_pyrrolic_nitrogen_ratio"
+    ]
+  },
+  "3335": {
+    "size": 2,
+    "values": [
+      "pyrrolic_n_fraction",
+      "pyrrolic_n_ratio"
+    ]
+  },
+  "3346": {
+    "size": 2,
+    "values": [
+      "quinone_nitrogen_content",
+      "quinone_oxygen_content"
+    ]
+  },
+  "3353": {
+    "size": 2,
+    "values": [
+      "raman_intensity_ratio",
+      "raman_intensity_ratio_change"
+    ]
+  },
+  "3361": {
+    "size": 3,
+    "values": [
+      "rate_capability",
+      "rate_capacity",
+      "rated_capacity"
+    ]
+  },
+  "3365": {
+    "size": 3,
+    "values": [
+      "rate_constant",
+      "rate_constant_k1",
+      "rate_constant_k2"
+    ]
+  },
+  "3367": {
+    "size": 3,
+    "values": [
+      "rate_efficiency",
+      "time_efficiency",
+      "trec_efficiency"
+    ]
+  },
+  "3369": {
+    "size": 3,
+    "values": [
+      "rate_performance_decrease",
+      "rate_performance_increase",
+      "temperature_performance_increase"
+    ]
+  },
+  "3370": {
+    "size": 2,
+    "values": [
+      "rate_power",
+      "rated_power"
+    ]
+  },
+  "3377": {
+    "size": 3,
+    "values": [
+      "rated_output_power",
+      "total_output_power",
+      "total_rated_output_power"
+    ]
+  },
+  "3416": {
+    "size": 2,
+    "values": [
+      "reduction_current_density",
+      "reduction_peak_current_density"
+    ]
+  },
+  "3426": {
+    "size": 2,
+    "values": [
+      "reflectivity",
+      "selectivity"
+    ]
+  },
+  "3442": {
+    "size": 2,
+    "values": [
+      "relative_density",
+      "relative_film_density"
+    ]
+  },
+  "3454": {
+    "size": 2,
+    "values": [
+      "relative_resistivity",
+      "relative_resistivity_change"
+    ]
+  },
+  "3473": {
+    "size": 2,
+    "values": [
+      "removal_rate",
+      "removal_ratio"
+    ]
+  },
+  "3476": {
+    "size": 2,
+    "values": [
+      "reproducibility",
+      "reproducibility_rsd"
+    ]
+  },
+  "3480": {
+    "size": 2,
+    "values": [
+      "residual_content",
+      "residue_content"
+    ]
+  },
+  "3507": {
+    "size": 4,
+    "values": [
+      "resonance_frequency",
+      "response_frequency",
+      "response_time_frequency",
+      "self_resonance_frequency"
+    ]
+  },
+  "3515": {
+    "size": 2,
+    "values": [
+      "response_slope",
+      "response_speed"
+    ]
+  },
+  "3533": {
+    "size": 2,
+    "values": [
+      "reversible_charge_capacity",
+      "reversible_discharge_capacity"
+    ]
+  },
+  "3536": {
+    "size": 3,
+    "values": [
+      "rgo_weight_ratio",
+      "weight_fraction",
+      "weight_ratio"
+    ]
+  },
+  "3554": {
+    "size": 2,
+    "values": [
+      "roughness",
+      "toughness"
+    ]
+  },
+  "3587": {
+    "size": 2,
+    "values": [
+      "scan_rate_operability",
+      "scan_rate_stability"
+    ]
+  },
+  "3605": {
+    "size": 4,
+    "values": [
+      "self_charging_rate",
+      "self_charging_time",
+      "self_healing_rate",
+      "self_healing_time"
+    ]
+  },
+  "3617": {
+    "size": 5,
+    "values": [
+      "self_healing_conductivity",
+      "self_healing_conductivity_retention",
+      "self_healing_efficiency_conductivity",
+      "self_healing_ionic_conductivity",
+      "self_healing_ionic_conductivity_retention"
+    ]
+  },
+  "3621": {
+    "size": 2,
+    "values": [
+      "self_healing_recovery",
+      "self_healing_strain_recovery"
+    ]
+  },
+  "3622": {
+    "size": 2,
+    "values": [
+      "self_healing_strain",
+      "self_healing_strength"
+    ]
+  },
+  "3625": {
+    "size": 2,
+    "values": [
+      "self_healing_tensile_strain",
+      "self_healing_tensile_stress"
+    ]
+  },
+  "3638": {
+    "size": 2,
+    "values": [
+      "sensing_sensitivity",
+      "sensor_sensitivity"
+    ]
+  },
+  "3646": {
+    "size": 3,
+    "values": [
+      "sensor_detection_range",
+      "strain_detection_range",
+      "strain_sensor_detection_range"
+    ]
+  },
+  "3651": {
+    "size": 2,
+    "values": [
+      "sensor_response",
+      "sensor_response_time"
+    ]
+  },
+  "3691": {
+    "size": 3,
+    "values": [
+      "shielding_effectiveness_absorption",
+      "shielding_effectiveness_absorption_ratio",
+      "shielding_effectiveness_reflection"
+    ]
+  },
+  "3707": {
+    "size": 2,
+    "values": [
+      "silicon_content",
+      "xps_silicon_content"
+    ]
+  },
+  "3732": {
+    "size": 4,
+    "values": [
+      "soc_error_mae",
+      "soc_error_rmse",
+      "soe_error_mae",
+      "soe_error_rmse"
+    ]
+  },
+  "3734": {
+    "size": 2,
+    "values": [
+      "soc_lower_limit",
+      "soe_lower_limit"
+    ]
+  },
+  "3737": {
+    "size": 2,
+    "values": [
+      "soc_tracking_mae",
+      "soc_tracking_rmse"
+    ]
+  },
+  "3738": {
+    "size": 2,
+    "values": [
+      "soc_upper_limit",
+      "soe_upper_limit"
+    ]
+  },
+  "3750": {
+    "size": 2,
+    "values": [
+      "solid_electrolyte_interface_resistance",
+      "solid_electrolyte_interphase_resistance"
+    ]
+  },
+  "3751": {
+    "size": 2,
+    "values": [
+      "solid_liquid_transition_temperature",
+      "solid_solid_transition_temperature"
+    ]
+  },
+  "3753": {
+    "size": 3,
+    "values": [
+      "solid_phase_volume_fraction",
+      "solid_volume_fraction",
+      "solid_volume_fraction_error"
+    ]
+  },
+  "3769": {
+    "size": 3,
+    "values": [
+      "soret_voltage",
+      "source_voltage",
+      "surge_voltage"
+    ]
+  },
+  "3778": {
+    "size": 2,
+    "values": [
+      "specific_capacitance_per_surface_area",
+      "specific_capacity_per_surface_area"
+    ]
+  },
+  "3780": {
+    "size": 2,
+    "values": [
+      "specific_charge",
+      "specific_charge_loss"
+    ]
+  },
+  "3788": {
+    "size": 3,
+    "values": [
+      "specific_energy",
+      "specific_energy_gain",
+      "specific_energy_loss"
+    ]
+  },
+  "3790": {
+    "size": 2,
+    "values": [
+      "specific_energy_increase",
+      "specific_power_increase"
+    ]
+  },
+  "3800": {
+    "size": 2,
+    "values": [
+      "specific_pore_volume",
+      "specific_volume"
+    ]
+  },
+  "3808": {
+    "size": 2,
+    "values": [
+      "specific_surface_density",
+      "specific_surface_energy"
+    ]
+  },
+  "3835": {
+    "size": 2,
+    "values": [
+      "stable_capacity",
+      "usable_capacity"
+    ]
+  },
+  "3848": {
+    "size": 2,
+    "values": [
+      "stack_volume",
+      "tank_volume"
+    ]
+  },
+  "3866": {
+    "size": 2,
+    "values": [
+      "state_of_charge_lower_bound",
+      "state_of_charge_upper_bound"
+    ]
+  },
+  "3885": {
+    "size": 2,
+    "values": [
+      "storage_energy",
+      "stored_energy"
+    ]
+  },
+  "3899": {
+    "size": 2,
+    "values": [
+      "strain_range",
+      "strain_rate"
+    ]
+  },
+  "3927": {
+    "size": 2,
+    "values": [
+      "sub_1_nm_pore_volume",
+      "sub_1_nm_pore_volume_ratio"
+    ]
+  },
+  "3958": {
+    "size": 2,
+    "values": [
+      "surface_area_enlargement",
+      "surface_enlargement"
+    ]
+  },
+  "3959": {
+    "size": 3,
+    "values": [
+      "surface_area_gain",
+      "surface_area_ratio",
+      "surface_redox_ratio"
+    ]
+  },
+  "3963": {
+    "size": 2,
+    "values": [
+      "surface_area_utilization",
+      "surface_utilization"
+    ]
+  },
+  "3970": {
+    "size": 2,
+    "values": [
+      "surface_charge_contribution",
+      "surface_contribution"
+    ]
+  },
+  "3975": {
+    "size": 3,
+    "values": [
+      "surface_control_contribution",
+      "surface_controlled_contribution",
+      "surface_controlled_process_contribution"
+    ]
+  },
+  "3976": {
+    "size": 2,
+    "values": [
+      "surface_controlled_activity",
+      "surface_controlled_fraction"
+    ]
+  },
+  "3991": {
+    "size": 2,
+    "values": [
+      "surface_nitrogen_content",
+      "surface_oxygen_content"
+    ]
+  },
+  "3997": {
+    "size": 2,
+    "values": [
+      "surface_potential",
+      "surface_potential_shift"
+    ]
+  },
+  "4010": {
+    "size": 2,
+    "values": [
+      "swelling_rate",
+      "swelling_ratio"
+    ]
+  },
+  "4012": {
+    "size": 2,
+    "values": [
+      "switching_duration",
+      "switching_ratio"
+    ]
+  },
+  "4019": {
+    "size": 2,
+    "values": [
+      "switching_voltage",
+      "switching_voltage_range"
+    ]
+  },
+  "4035": {
+    "size": 2,
+    "values": [
+      "tap_density",
+      "trap_density"
+    ]
+  },
+  "4042": {
+    "size": 2,
+    "values": [
+      "temperature_adaptability",
+      "temperature_stability"
+    ]
+  },
+  "4044": {
+    "size": 2,
+    "values": [
+      "temperature_change",
+      "temperature_range"
+    ]
+  },
+  "4045": {
+    "size": 2,
+    "values": [
+      "temperature_coefficient",
+      "texture_coefficient"
+    ]
+  },
+  "4046": {
+    "size": 2,
+    "values": [
+      "temperature_coefficient_of_capacitance",
+      "temperature_coefficient_of_resistance"
+    ]
+  },
+  "4048": {
+    "size": 2,
+    "values": [
+      "temperature_dependence",
+      "temperature_independence"
+    ]
+  },
+  "4049": {
+    "size": 2,
+    "values": [
+      "temperature_dependence_of_capacitance",
+      "temperature_dependence_of_resistance"
+    ]
+  },
+  "4051": {
+    "size": 2,
+    "values": [
+      "temperature_difference",
+      "temperature_difference_rate"
+    ]
+  },
+  "4063": {
+    "size": 3,
+    "values": [
+      "temperature_ripple",
+      "temperature_rise",
+      "temperature_rmse"
+    ]
+  },
+  "4071": {
+    "size": 2,
+    "values": [
+      "tensile_fracture_strength",
+      "tensile_fracture_stress"
+    ]
+  },
+  "4083": {
+    "size": 2,
+    "values": [
+      "tensile_stress",
+      "tensile_stroke"
+    ]
+  },
+  "4084": {
+    "size": 2,
+    "values": [
+      "tensile_stress_at_break",
+      "tensile_stress_at_cracking"
+    ]
+  },
+  "4097": {
+    "size": 2,
+    "values": [
+      "thermal_cracking_temperature",
+      "thermal_curing_temperature"
+    ]
+  },
+  "4100": {
+    "size": 2,
+    "values": [
+      "thermal_diffusivity",
+      "thermal_effusivity"
+    ]
+  },
+  "4106": {
+    "size": 4,
+    "values": [
+      "thermal_peak_temperature",
+      "thermal_runaway_onset_temperature",
+      "thermal_runaway_peak_temperature",
+      "thermal_runaway_trigger_temperature"
+    ]
+  },
+  "4108": {
+    "size": 2,
+    "values": [
+      "thermal_shrinkage",
+      "thermal_shrinkage_ratio"
+    ]
+  },
+  "4119": {
+    "size": 2,
+    "values": [
+      "thickness_change",
+      "thickness_range"
+    ]
+  },
+  "4156": {
+    "size": 2,
+    "values": [
+      "total_charge_time",
+      "total_discharge_time"
+    ]
+  },
+  "4159": {
+    "size": 2,
+    "values": [
+      "total_energy_input",
+      "total_energy_output"
+    ]
+  },
+  "4214": {
+    "size": 2,
+    "values": [
+      "turbine_count",
+      "turn_count"
+    ]
+  },
+  "4245": {
+    "size": 2,
+    "values": [
+      "used_in_cv",
+      "used_in_gcd"
+    ]
+  },
+  "4247": {
+    "size": 3,
+    "values": [
+      "utilization_factor",
+      "utilization_rate",
+      "utilization_ratio"
+    ]
+  },
+  "4263": {
+    "size": 2,
+    "values": [
+      "visible_transmittance",
+      "visible_transmittance_range"
+    ]
+  },
+  "4268": {
+    "size": 2,
+    "values": [
+      "voltage_at_maximum_power",
+      "voltage_at_maximum_power_point"
+    ]
+  },
+  "4269": {
+    "size": 4,
+    "values": [
+      "voltage_change",
+      "voltage_duration",
+      "voltage_range",
+      "voltage_rating"
+    ]
+  },
+  "4273": {
+    "size": 2,
+    "values": [
+      "voltage_decay",
+      "voltage_delay"
+    ]
+  },
+  "4296": {
+    "size": 3,
+    "values": [
+      "voltage_prediction_error_mae",
+      "voltage_prediction_error_mre",
+      "voltage_prediction_error_rmse"
+    ]
+  },
+  "4303": {
+    "size": 2,
+    "values": [
+      "voltage_tracking_mae",
+      "voltage_tracking_rmse"
+    ]
+  },
+  "4308": {
+    "size": 2,
+    "values": [
+      "volume_change",
+      "volume_range"
+    ]
+  },
+  "4314": {
+    "size": 2,
+    "values": [
+      "volumetric_adsorption_capacity",
+      "volumetric_adsorption_rate"
+    ]
+  },
+  "4323": {
+    "size": 2,
+    "values": [
+      "volumetric_specific_capacitance",
+      "volumetric_specific_capacity"
+    ]
+  },
+  "4324": {
+    "size": 2,
+    "values": [
+      "volumetric_specific_energy",
+      "volumetric_specific_power"
+    ]
+  },
+  "4344": {
+    "size": 2,
+    "values": [
+      "warburg_factor",
+      "warburg_prefactor"
+    ]
+  },
+  "4349": {
+    "size": 2,
+    "values": [
+      "warburg_resistance",
+      "warburg_resistance_ratio"
+    ]
+  },
+  "4374": {
+    "size": 2,
+    "values": [
+      "water_splitting_cell_voltage",
+      "water_splitting_voltage"
+    ]
+  },
+  "4388": {
+    "size": 2,
+    "values": [
+      "weibull_scale_parameter",
+      "weibull_shape_parameter"
+    ]
+  },
+  "4415": {
+    "size": 2,
+    "values": [
+      "xps_c1s",
+      "xps_o1s"
+    ]
+  },
+  "4434": {
+    "size": 2,
+    "values": [
+      "zinc_content",
+      "zno_content"
+    ]
+  }
+}
